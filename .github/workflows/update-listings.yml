@@ -38,12 +38,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to listings.js — skipping commit."
           else
-            COUNT=$(python3 -c "
-import json, re
-txt = open('listings.js').read()
-m = re.search(r'const LISTINGS = (\[[\s\S]*?\]);', txt)
-print(len(json.loads(m.group(1))) if m else '?')
-")
-            git commit -m "auto: ${COUNT} S60 listings near 07762 — $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "auto: update S60 listings near 07762 — $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           fi
