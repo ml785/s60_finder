@@ -30,7 +30,7 @@ AREA_LNG = -74.0185
 OUTPUT = Path(__file__).parent.parent / "listings.js"
 
 
-# ── API fetch ─────────────────────────────────────────────
+# ── API fetch (paginates to retrieve all results) ─────────
 def fetch_listings() -> list:
     api_key = os.environ.get("MARKETCHECK_API_KEY", "").strip()
     if not api_key:
@@ -41,7 +41,7 @@ def fetch_listings() -> list:
         )
 
     url = "https://mc-api.marketcheck.com/v2/search/car/active"
-    params = {
+    base_params = {
         "api_key":    api_key,
         "zip":        ZIP_CODE,
         "radius":     RADIUS,
@@ -52,20 +52,36 @@ def fetch_listings() -> list:
         "sort_order": "asc",
     }
 
-    print(f"  Calling MarketCheck API (ZIP {ZIP_CODE}, {RADIUS} mi) …")
-    resp = requests.get(url, params=params, timeout=20)
+    all_raw = []
+    start   = 0
 
-    if resp.status_code == 401:
-        sys.exit("⚠  Invalid API key. Check MARKETCHECK_API_KEY.")
-    if resp.status_code == 429:
-        sys.exit("⚠  API rate limit hit. Free tier allows 100 calls/day.")
-    resp.raise_for_status()
+    while True:
+        params = {**base_params, "start": start}
+        print(f"  Fetching rows {start}–{start + MAX_ROWS - 1} …", end=" ")
 
-    data = resp.json()
-    total = data.get("num_found", "?")
-    raw   = data.get("listings", [])
-    print(f"  {total} total found, returned {len(raw)}")
-    return raw
+        resp = requests.get(url, params=params, timeout=20)
+        if resp.status_code == 401:
+            sys.exit("⚠  Invalid API key. Check MARKETCHECK_API_KEY.")
+        if resp.status_code == 429:
+            print(f"\n⚠  Rate limit hit after {len(all_raw)} listings — using what we have.")
+            break
+        resp.raise_for_status()
+
+        data  = resp.json()
+        batch = data.get("listings") or []
+        total = data.get("num_found", "?")
+        print(f"{len(batch)} returned  (total available: {total})")
+
+        all_raw.extend(batch)
+
+        # Stop if this page was short (last page) or we've hit our cap
+        if len(batch) < MAX_ROWS or len(all_raw) >= 500:
+            break
+
+        start += MAX_ROWS
+
+    print(f"  → {len(all_raw)} listings fetched total")
+    return all_raw
 
 
 # ── Map API response → our listing schema ─────────────────
