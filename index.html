@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>S60 Finder — Find Your Volvo S60</title>
+  <meta name="description" content="Search nearby Volvo S60 listings filtered by price, year, mileage, trim, and features." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ─── HEADER ────────────────────────────── -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="logo">
+        <div class="logo-emblem">S60</div>
+        <div class="logo-text">
+          <span class="logo-title">S60 Finder</span>
+          <span class="logo-subtitle">Volvo S60 Listings</span>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <!-- Mobile: toggle filter panel -->
+        <button class="mobile-filter-btn" id="mobileFilterToggle">
+          ⚙ Filters
+        </button>
+
+        <!-- Favorites counter button -->
+        <button class="favorites-btn" id="toggleFavorites">
+          ♡ Saved (<span id="favCount">0</span>)
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ─── MAIN LAYOUT ───────────────────────── -->
+  <div class="app-layout">
+
+    <!-- FILTERS SIDEBAR -->
+    <aside class="filters-panel" id="filtersPanel">
+      <div class="filters-header">
+        <h2>Search Filters</h2>
+        <button class="clear-btn" id="clearFilters">Clear all</button>
+      </div>
+
+      <form id="filterForm" autocomplete="off">
+
+        <!-- Location -->
+        <div class="filter-group">
+          <label for="location">Location</label>
+          <input
+            type="text"
+            id="location"
+            placeholder="ZIP code or city name"
+          />
+          <button type="button" class="geo-btn" id="geoBtn">📍 Use my location</button>
+          <div class="location-warning" id="locationWarning">
+            Location not recognized — showing all results without distance filtering.
+          </div>
+        </div>
+
+        <!-- Radius -->
+        <div class="filter-group">
+          <label for="radius">Search Radius</label>
+          <select id="radius">
+            <option value="25">Within 25 miles</option>
+            <option value="50" selected>Within 50 miles</option>
+            <option value="100">Within 100 miles</option>
+            <option value="250">Within 250 miles</option>
+            <option value="500">Within 500 miles</option>
+            <option value="9999">Nationwide</option>
+          </select>
+        </div>
+
+        <!-- Price Range -->
+        <div class="filter-group">
+          <label>Price Range</label>
+          <div class="range-row">
+            <input type="number" id="priceMin" placeholder="Min $" min="0" step="500" />
+            <span class="range-sep">–</span>
+            <input type="number" id="priceMax" placeholder="Max $" min="0" step="500" />
+          </div>
+        </div>
+
+        <!-- Year Range -->
+        <div class="filter-group">
+          <label>Year Range</label>
+          <div class="range-row">
+            <input type="number" id="yearMin" placeholder="From" min="2019" max="2024" />
+            <span class="range-sep">–</span>
+            <input type="number" id="yearMax" placeholder="To"   min="2019" max="2024" />
+          </div>
+        </div>
+
+        <!-- Max Mileage -->
+        <div class="filter-group">
+          <label for="maxMileage">Max Mileage</label>
+          <select id="maxMileage">
+            <option value="">Any mileage</option>
+            <option value="10000">Under 10,000 mi</option>
+            <option value="25000">Under 25,000 mi</option>
+            <option value="50000">Under 50,000 mi</option>
+            <option value="75000">Under 75,000 mi</option>
+            <option value="100000">Under 100,000 mi</option>
+          </select>
+        </div>
+
+        <!-- Trim -->
+        <div class="filter-group">
+          <label for="trim">Trim</label>
+          <select id="trim">
+            <option value="">Any trim</option>
+            <option value="Momentum">Momentum</option>
+            <option value="R-Design">R-Design</option>
+            <option value="Inscription">Inscription</option>
+            <option value="Recharge">Recharge (PHEV)</option>
+            <option value="Polestar Engineered">Polestar Engineered</option>
+          </select>
+        </div>
+
+        <!-- Drivetrain -->
+        <div class="filter-group">
+          <label for="drivetrain">Drivetrain</label>
+          <select id="drivetrain">
+            <option value="">Any drivetrain</option>
+            <option value="FWD">FWD</option>
+            <option value="AWD">AWD</option>
+          </select>
+        </div>
+
+        <!-- Exterior Color -->
+        <div class="filter-group">
+          <label for="color">Exterior Color</label>
+          <select id="color">
+            <option value="">Any color</option>
+            <option value="white">White</option>
+            <option value="black">Black</option>
+            <option value="silver">Silver / Grey</option>
+            <option value="blue">Blue</option>
+            <option value="red">Red</option>
+          </select>
+        </div>
+
+        <!-- Features -->
+        <div class="filter-group">
+          <label>Features</label>
+          <div class="checkbox-list">
+            <label class="checkbox-item">
+              <input type="checkbox" name="feature" value="awd" />
+              AWD
+            </label>
+            <label class="checkbox-item">
+              <input type="checkbox" name="feature" value="leather seats" />
+              Leather Seats
+            </label>
+            <label class="checkbox-item">
+              <input type="checkbox" name="feature" value="sunroof" />
+              Sunroof / Moonroof
+            </label>
+            <label class="checkbox-item">
+              <input type="checkbox" name="feature" value="apple carplay" />
+              Apple CarPlay
+            </label>
+            <label class="checkbox-item">
+              <input type="checkbox" name="feature" value="heated seats" />
+              Heated Seats
+            </label>
+            <label class="checkbox-item">
+              <input type="checkbox" name="feature" value="backup camera" />
+              Backup Camera
+            </label>
+            <label class="checkbox-item">
+              <input type="checkbox" name="feature" value="blind spot monitoring" />
+              Blind Spot Monitoring
+            </label>
+          </div>
+        </div>
+
+        <!-- Keywords -->
+        <div class="filter-group">
+          <label for="keywords">Keywords</label>
+          <input
+            type="text"
+            id="keywords"
+            placeholder='e.g. "panoramic" or "one owner"'
+          />
+        </div>
+
+        <button type="submit" class="search-btn">Search Listings</button>
+
+      </form>
+    </aside>
+
+    <!-- RESULTS AREA -->
+    <main class="results-area">
+
+      <!-- Toolbar: count + sort -->
+      <div class="results-toolbar">
+        <div class="results-count" id="resultsCount">Loading…</div>
+        <div class="sort-row">
+          <label for="sortBy">Sort:</label>
+          <select id="sortBy">
+            <option value="price-asc">Lowest Price</option>
+            <option value="year-desc">Newest Year</option>
+            <option value="mileage-asc">Lowest Mileage</option>
+            <option value="distance-asc">Closest Distance</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Cards injected here by app.js -->
+      <div class="listings-grid" id="listingsGrid"></div>
+
+    </main>
+  </div>
+
+  <!-- ─── FAVORITES MODAL ───────────────────── -->
+  <div class="modal" id="favoritesModal">
+    <div class="modal-inner">
+      <div class="modal-header">
+        <h2>Saved Listings</h2>
+        <button class="modal-close" id="modalClose">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="listings-grid" id="favoritesGrid"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ─── LISTING DETAIL MODAL ──────────────── -->
+  <div class="modal" id="listingDetailModal">
+    <div class="modal-inner" style="max-width:600px">
+      <div class="modal-header">
+        <h2>Listing Details</h2>
+        <button class="modal-close" id="listingDetailClose">✕</button>
+      </div>
+      <div id="listingDetailContent"></div>
+    </div>
+  </div>
+
+  <!-- Data first, then app logic -->
+  <script src="listings.js"></script>
+  <script src="app.js"></script>
+
+</body>
+</html>
