@@ -442,6 +442,14 @@ body {
   flex-shrink: 0;
 }
 
+/* Real photo from scraper — fills the entire image area */
+.card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
 .card-color-label {
   font-size: 0.72rem;
   color: rgba(255,255,255,0.75);

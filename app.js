@@ -424,20 +424,20 @@ function renderCards(listings, containerSelector = "#listingsGrid") {
   // Attach save-button listeners after injecting HTML
   grid.querySelectorAll(".save-btn").forEach((btn) => {
     btn.addEventListener("click", (e) => {
-      const id = parseInt(e.currentTarget.dataset.id, 10);
+      const id = e.currentTarget.dataset.id; // keep as string
       toggleFavorite(id);
       syncSaveButton(e.currentTarget, id);
       updateFavCount();
     });
   });
 
-  // View Listing buttons (mock — show a notice for demo data)
+  // View Listing — opens real URL if available, otherwise shows detail modal
   grid.querySelectorAll(".view-btn").forEach((btn) => {
     btn.addEventListener("click", (e) => {
       e.preventDefault();
-      const id = parseInt(e.currentTarget.dataset.id, 10);
-      const listing = LISTINGS.find((l) => l.id === id);
-      if (listing && listing.listingUrl !== "#") {
+      const id      = e.currentTarget.dataset.id;
+      const listing = LISTINGS.find((l) => String(l.id) === id);
+      if (listing && listing.listingUrl && listing.listingUrl !== "#") {
         window.open(listing.listingUrl, "_blank");
       } else {
         showListingDetail(id);
@@ -447,7 +447,8 @@ function renderCards(listings, containerSelector = "#listingsGrid") {
 }
 
 function buildCardHTML(listing) {
-  const isFav = favorites.has(listing.id);
+  const sid  = String(listing.id); // always compare as string — scraped IDs aren't ints
+  const isFav = favorites.has(sid);
   const distance = userCoords
     ? `${haversineDistance(userCoords.lat, userCoords.lng, listing.lat, listing.lng).toLocaleString()} mi away`
     : null;
@@ -460,21 +461,27 @@ function buildCardHTML(listing) {
     visible.map((f) => `<span class="badge">${f}</span>`).join("") +
     (overflow > 0 ? `<span class="badge badge--more">+${overflow}</span>` : "");
 
+  // Real photo when available (scraped from cars.com); SVG placeholder otherwise
+  const imageInner = listing.image
+    ? `<img src="${listing.image}" alt="${listing.year} Volvo S60" class="card-img" loading="lazy">`
+    : `<svg class="car-svg" viewBox="0 0 100 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M5,34 L10,20 Q18,10 35,9 L65,9 Q82,10 90,20 L95,34 L95,40 Q95,43 91,43 L85,43 L85,41 L15,41 L15,43 L9,43 Q5,43 5,40 Z"
+              fill="rgba(255,255,255,0.18)" stroke="rgba(255,255,255,0.6)" stroke-width="1.5" stroke-linejoin="round"/>
+        <path d="M37,9 L33,27 L67,27 L63,9 Z"
+              fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+        <line x1="50" y1="9" x2="50" y2="27" stroke="rgba(255,255,255,0.25)" stroke-width="0.8"/>
+        <circle cx="25" cy="41" r="8" fill="rgba(0,0,0,0.28)" stroke="rgba(255,255,255,0.55)" stroke-width="1.5"/>
+        <circle cx="25" cy="41" r="3.5" fill="rgba(255,255,255,0.2)"/>
+        <circle cx="75" cy="41" r="8" fill="rgba(0,0,0,0.28)" stroke="rgba(255,255,255,0.55)" stroke-width="1.5"/>
+        <circle cx="75" cy="41" r="3.5" fill="rgba(255,255,255,0.2)"/>
+      </svg>
+      <span class="card-color-label">${listing.color}</span>`;
+  const imageStyle = listing.image ? "" : `style="background:${colorGradient(listing.colorCategory)}"`;
+
   return `
-<div class="card" data-id="${listing.id}">
-  <div class="card-image" style="background:${colorGradient(listing.colorCategory)}">
-    <svg class="car-svg" viewBox="0 0 100 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M5,34 L10,20 Q18,10 35,9 L65,9 Q82,10 90,20 L95,34 L95,40 Q95,43 91,43 L85,43 L85,41 L15,41 L15,43 L9,43 Q5,43 5,40 Z"
-            fill="rgba(255,255,255,0.18)" stroke="rgba(255,255,255,0.6)" stroke-width="1.5" stroke-linejoin="round"/>
-      <path d="M37,9 L33,27 L67,27 L63,9 Z"
-            fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
-      <line x1="50" y1="9" x2="50" y2="27" stroke="rgba(255,255,255,0.25)" stroke-width="0.8"/>
-      <circle cx="25" cy="41" r="8" fill="rgba(0,0,0,0.28)" stroke="rgba(255,255,255,0.55)" stroke-width="1.5"/>
-      <circle cx="25" cy="41" r="3.5" fill="rgba(255,255,255,0.2)"/>
-      <circle cx="75" cy="41" r="8" fill="rgba(0,0,0,0.28)" stroke="rgba(255,255,255,0.55)" stroke-width="1.5"/>
-      <circle cx="75" cy="41" r="3.5" fill="rgba(255,255,255,0.2)"/>
-    </svg>
-    <span class="card-color-label">${listing.color}</span>
+<div class="card" data-id="${sid}">
+  <div class="card-image" ${imageStyle}>
+    ${imageInner}
   </div>
   <div class="card-body">
     <div class="card-header-row">
@@ -526,7 +533,7 @@ function colorGradient(category) {
 // LISTING DETAIL MODAL (for mock "#" listings)
 // ─────────────────────────────────────────────
 function showListingDetail(id) {
-  const listing = LISTINGS.find((l) => l.id === id);
+  const listing = LISTINGS.find((l) => String(l.id) === String(id));
   if (!listing) return;
 
   const modal = document.getElementById("listingDetailModal");
@@ -575,7 +582,7 @@ document.addEventListener("DOMContentLoaded", () => {
 function loadFavorites() {
   try {
     const stored = JSON.parse(localStorage.getItem("s60finder_favorites") || "[]");
-    favorites = new Set(stored);
+    favorites = new Set(stored.map(String)); // always store as strings
   } catch {
     favorites = new Set();
   }
@@ -586,16 +593,17 @@ function saveFavorites() {
 }
 
 function toggleFavorite(id) {
-  if (favorites.has(id)) {
-    favorites.delete(id);
+  const sid = String(id);
+  if (favorites.has(sid)) {
+    favorites.delete(sid);
   } else {
-    favorites.add(id);
+    favorites.add(sid);
   }
   saveFavorites();
 }
 
 function syncSaveButton(btn, id) {
-  const saved = favorites.has(id);
+  const saved = favorites.has(String(id));
   btn.textContent = saved ? "♥ Saved" : "♡ Save";
   btn.classList.toggle("saved", saved);
 }
@@ -607,7 +615,7 @@ function openFavoritesModal() {
   const modal = document.getElementById("favoritesModal");
   const grid = document.getElementById("favoritesGrid");
 
-  const favListings = LISTINGS.filter((l) => favorites.has(l.id));
+  const favListings = LISTINGS.filter((l) => favorites.has(String(l.id)));
 
   if (favListings.length === 0) {
     grid.innerHTML = `
