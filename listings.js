@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-05-20 22:18 UTC
+// Last updated: 2026-05-21 11:59 UTC
 
 const LISTINGS = [
   {
@@ -84,26 +84,6 @@ const LISTINGS = [
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-sound-climate-pkg-awd-sedan-7jrl12th2rg290481/"
   },
   {
-    "id": "YV126MFB7F1305175-2e29d463-32ee",
-    "year": 2015,
-    "trim": "T5 Premier",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 5999,
-    "mileage": 104523,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakewood, NJ",
-    "lat": 40.082942,
-    "lng": -74.167404,
-    "dealer": "The Auto Exchange, Inc",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn.getauto.com/photos/3/3993/1c/YV126MFB7F1305175-1c.jpg?20260512162928000",
-    "listingUrl": "https://www.nobullauto.com/inventory-details/2015/Volvo/S60/YV126MFB7F1305175"
-  },
-  {
     "id": "YV1RS592382686824-92be0b42-dbcd",
     "year": 2008,
     "trim": "2.5T",
@@ -160,7 +140,7 @@ const LISTINGS = [
     "dealer": "Autoland Mall",
     "features": [],
     "notes": "",
-    "image": "https://cdn05.carsforsale.com/0086e0d3bbd7f69b46e6d663ba7ba63ba5/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=4be7e4e60e15055d",
+    "image": "https://cdn05.carsforsale.com/0b9842574c2256d5eca5b63db75c7d50/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=8eb13ed0b800aff9",
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   },
   {
@@ -202,5 +182,25 @@ const LISTINGS = [
     "notes": "",
     "image": "https://content.homenetiol.com/2002155/2152865/dab96d81831341ae8e39dfe5dd5e03a0.jpg",
     "listingUrl": "https://www.autolenders.com/used-car-inventory/Volvo-S60%20Recharge%20Plug-In%20Hybrid-NG174378"
+  },
+  {
+    "id": "7JRL12TL8RG316604-9ae2bb25-1e94",
+    "year": 2024,
+    "trim": "Plus",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 34245,
+    "mileage": 17189,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Toms River, NJ",
+    "lat": 39.953751,
+    "lng": -74.156384,
+    "dealer": "Auto Lenders  Toms River",
+    "features": [],
+    "notes": "",
+    "image": "https://content.homenetiol.com/2002155/2152865/5c16790611b54b71978617131886c8ad.jpg",
+    "listingUrl": "https://www.autolenders.com/used-car-inventory/Volvo-S60-RG316604"
   }
 ];
