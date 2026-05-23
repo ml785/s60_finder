@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-05-22 21:54 UTC
+// Last updated: 2026-05-23 10:19 UTC
 
 const LISTINGS = [
   {
@@ -84,33 +84,33 @@ const LISTINGS = [
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-sound-climate-pkg-awd-sedan-7jrl12th2rg290481/"
   },
   {
-    "id": "YV1RS592382686824-92be0b42-dbcd",
-    "year": 2008,
-    "trim": "2.5T",
+    "id": "YV1612TK6G2397626-276aa632-e826",
+    "year": 2016,
+    "trim": "T5 Premier",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 3999,
-    "mileage": 117535,
+    "price": 13995,
+    "mileage": 59353,
     "color": "N/A",
     "colorCategory": "",
-    "location": "Lakewood, NJ",
-    "lat": 40.082121,
-    "lng": -74.168241,
-    "dealer": "Auto Headquarters",
+    "location": "Wall Township, NJ",
+    "lat": 40.21895,
+    "lng": -74.129766,
+    "dealer": "Automotive Avenues",
     "features": [],
     "notes": "",
-    "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
-    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
+    "image": "https://vehicle-images.carscommerce.inc/40eb-11001792/YV1612TK6G2397626/312b22cf3ca2de6bdc8dfc70e7294e91.webp",
+    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2016-volvo-s60-4dr-sedan-t5-premier-awd-w-convenience-pkg-blis-pkg-awd-sedan-yv1612tk6g2397626/"
   },
   {
-    "id": "YV149MTS3H2422415-04b101cf-6a82",
+    "id": "YV149MTS3H2422415-5ba88305-6077",
     "year": 2017,
     "trim": "T6 R-Design Platinum",
     "trimCategory": "R-Design",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 12999,
+    "price": 13498,
     "mileage": 87060,
     "color": "N/A",
     "colorCategory": "",
@@ -122,6 +122,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/00e2b46bca88260b880676601fc52fd9fe/2017-volvo-s60-t6-252520r-design-252520platinum.jpg?width=640&height=480&format=&sig=e465bd19e2c52cb2",
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
+  },
+  {
+    "id": "YV1RS592382686824-0cfb0bf1-1b62",
+    "year": 2008,
+    "trim": "2.5T",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 4498,
+    "mileage": 117535,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakewood, NJ",
+    "lat": 40.082121,
+    "lng": -74.168241,
+    "dealer": "Auto Headquarters",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
+    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
   },
   {
     "id": "LYV612TK8GB094237-d397f641-418f",
@@ -162,26 +182,6 @@ const LISTINGS = [
     "notes": "",
     "image": "https://content.homenetiol.com/2002155/2152865/88e680195e8d49b6b33bf472f9d5cf57.jpg",
     "listingUrl": "https://www.autolenders.com/used-car-inventory/Volvo-S60-KG017423"
-  },
-  {
-    "id": "7JRBR0FZ0NG174378-34978955-8cc4",
-    "year": 2022,
-    "trim": "R-Design Expression",
-    "trimCategory": "R-Design",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 30899,
-    "mileage": 34643,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Toms River, NJ",
-    "lat": 39.953751,
-    "lng": -74.156384,
-    "dealer": "Auto Lenders  Toms River",
-    "features": [],
-    "notes": "",
-    "image": "https://content.homenetiol.com/2002155/2152865/dab96d81831341ae8e39dfe5dd5e03a0.jpg",
-    "listingUrl": "https://www.autolenders.com/used-car-inventory/Volvo-S60%20Recharge%20Plug-In%20Hybrid-NG174378"
   },
   {
     "id": "7JRL12TL8RG316604-9ae2bb25-1e94",
