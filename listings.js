@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-05-23 21:41 UTC
+// Last updated: 2026-05-24 10:24 UTC
 
 const LISTINGS = [
   {
@@ -104,26 +104,6 @@ const LISTINGS = [
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2016-volvo-s60-4dr-sedan-t5-premier-awd-w-convenience-pkg-blis-pkg-awd-sedan-yv1612tk6g2397626/"
   },
   {
-    "id": "YV149MTS3H2422415-5ba88305-6077",
-    "year": 2017,
-    "trim": "T6 R-Design Platinum",
-    "trimCategory": "R-Design",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 13498,
-    "mileage": 87060,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakewood, NJ",
-    "lat": 40.082121,
-    "lng": -74.168241,
-    "dealer": "Auto Headquarters",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/00e2b46bca88260b880676601fc52fd9fe/2017-volvo-s60-t6-252520r-design-252520platinum.jpg?width=640&height=480&format=&sig=e465bd19e2c52cb2",
-    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
-  },
-  {
     "id": "YV1RS592382686824-0cfb0bf1-1b62",
     "year": 2008,
     "trim": "2.5T",
@@ -142,6 +122,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
+  },
+  {
+    "id": "YV149MTS3H2422415-5ba88305-6077",
+    "year": 2017,
+    "trim": "T6 R-Design Platinum",
+    "trimCategory": "R-Design",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 13498,
+    "mileage": 87060,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakewood, NJ",
+    "lat": 40.082121,
+    "lng": -74.168241,
+    "dealer": "Auto Headquarters",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/00e2b46bca88260b880676601fc52fd9fe/2017-volvo-s60-t6-252520r-design-252520platinum.jpg?width=640&height=480&format=&sig=e465bd19e2c52cb2",
+    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
   },
   {
     "id": "LYV612TK8GB094237-d397f641-418f",
@@ -164,43 +164,23 @@ const LISTINGS = [
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   },
   {
-    "id": "7JRA22TL7KG017423-335977bd-9e2d",
-    "year": 2019,
+    "id": "LYV402HK1JB162727-ab5f5e46-da94",
+    "year": 2018,
     "trim": "Inscription",
     "trimCategory": "Inscription",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 23795,
-    "mileage": 53450,
+    "price": 9900,
+    "mileage": 98264,
     "color": "N/A",
     "colorCategory": "",
     "location": "Toms River, NJ",
-    "lat": 39.953751,
-    "lng": -74.156384,
-    "dealer": "Auto Lenders  Toms River",
+    "lat": 40.013002,
+    "lng": -74.146731,
+    "dealer": "Silverton Motors",
     "features": [],
     "notes": "",
-    "image": "https://content.homenetiol.com/2002155/2152865/88e680195e8d49b6b33bf472f9d5cf57.jpg",
-    "listingUrl": "https://www.autolenders.com/used-car-inventory/Volvo-S60-KG017423"
-  },
-  {
-    "id": "7JRL12TL8RG316604-9ae2bb25-1e94",
-    "year": 2024,
-    "trim": "Plus",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 34245,
-    "mileage": 17189,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Toms River, NJ",
-    "lat": 39.953751,
-    "lng": -74.156384,
-    "dealer": "Auto Lenders  Toms River",
-    "features": [],
-    "notes": "",
-    "image": "https://content.homenetiol.com/2002155/2152865/5c16790611b54b71978617131886c8ad.jpg",
-    "listingUrl": "https://www.autolenders.com/used-car-inventory/Volvo-S60-RG316604"
+    "image": "https://imagescf.dealercenter.net/1024/768/202604-d49a2e382d9c431da968867654aaf47d.jpg",
+    "listingUrl": "https://www.silvertonmotors.com/inventory/volvo/s60/jb162727/"
   }
 ];
