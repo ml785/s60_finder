@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-05-24 21:42 UTC
+// Last updated: 2026-05-25 12:15 UTC
 
 const LISTINGS = [
   {
@@ -42,6 +42,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://images.dealer.com/ddc/vehicles/2025/Volvo/S60/Sedan/trim_B5_Core_54e89b/color/Denim%20Blue%20Metallic-723-62,78,95-640-en_US.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/commercial-new/Volvo/2025-Volvo-S60-Manasquan-f52f4822ac181057016b4df8cc7b97b0.htm"
+  },
+  {
+    "id": "7JRL12FK0RG280782-f658e933-fdd6",
+    "year": 2024,
+    "trim": "Core",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 31874,
+    "mileage": 21491,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://images.dealer.com/ddc/vehicles/2024/Volvo/S60/Sedan/trim_B5_Core_Dark_Theme_87fd58/color/Onyx%20Black%20Metallic-717-45,41,38-640-en_US.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-51f30616ac180b21af76d646e80030b2.htm"
   },
   {
     "id": "YV140MTL2J2460100-56cc5670-9b91",
@@ -162,25 +182,5 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/0b9842574c2256d5eca5b63db75c7d50/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=8eb13ed0b800aff9",
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
-  },
-  {
-    "id": "LYV402HK1JB162727-ab5f5e46-da94",
-    "year": 2018,
-    "trim": "Inscription",
-    "trimCategory": "Inscription",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 9900,
-    "mileage": 98264,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Toms River, NJ",
-    "lat": 40.013002,
-    "lng": -74.146731,
-    "dealer": "Silverton Motors",
-    "features": [],
-    "notes": "",
-    "image": "https://imagescf.dealercenter.net/1024/768/202604-d49a2e382d9c431da968867654aaf47d.jpg",
-    "listingUrl": "https://www.silvertonmotors.com/inventory/volvo/s60/jb162727/"
   }
 ];
