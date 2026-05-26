@@ -1,17 +1,17 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-05-25 21:58 UTC
+// Last updated: 2026-05-26 22:13 UTC
 
 const LISTINGS = [
   {
-    "id": "7JRL12FJ4SG367386-b48966b5-bd1f",
-    "year": 2025,
+    "id": "7JRL12FK0RG280782-f658e933-fdd6",
+    "year": 2024,
     "trim": "Core",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 46064,
-    "mileage": 0,
+    "price": 31874,
+    "mileage": 21491,
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
@@ -20,8 +20,8 @@ const LISTINGS = [
     "dealer": "Volvo Cars Manasquan",
     "features": [],
     "notes": "",
-    "image": "https://images.dealer.com/ddc/vehicles/2025/Volvo/S60/Sedan/trim_B5_Core_54e89b/color/Vapour%20Gray%20Metallic-740-164,165,169-640-en_US.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/commercial-new/Volvo/2025-Volvo-S60-Manasquan-f52f769dac183eeaa4084aa0cc3372f7.htm"
+    "image": "https://images.dealer.com/ddc/vehicles/2024/Volvo/S60/Sedan/trim_B5_Core_Dark_Theme_87fd58/color/Onyx%20Black%20Metallic-717-45,41,38-640-en_US.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-51f30616ac180b21af76d646e80030b2.htm"
   },
   {
     "id": "7JRL12FJXSG368722-3a91c85f-01d2",
@@ -44,14 +44,14 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/commercial-new/Volvo/2025-Volvo-S60-Manasquan-f52f4822ac181057016b4df8cc7b97b0.htm"
   },
   {
-    "id": "7JRL12FK0RG280782-f658e933-fdd6",
-    "year": 2024,
+    "id": "7JRL12FJ4SG367386-b48966b5-bd1f",
+    "year": 2025,
     "trim": "Core",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 31874,
-    "mileage": 21491,
+    "price": 46064,
+    "mileage": 0,
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
@@ -60,8 +60,8 @@ const LISTINGS = [
     "dealer": "Volvo Cars Manasquan",
     "features": [],
     "notes": "",
-    "image": "https://images.dealer.com/ddc/vehicles/2024/Volvo/S60/Sedan/trim_B5_Core_Dark_Theme_87fd58/color/Onyx%20Black%20Metallic-717-45,41,38-640-en_US.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-51f30616ac180b21af76d646e80030b2.htm"
+    "image": "https://images.dealer.com/ddc/vehicles/2025/Volvo/S60/Sedan/trim_B5_Core_54e89b/color/Vapour%20Gray%20Metallic-740-164,165,169-640-en_US.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/commercial-new/Volvo/2025-Volvo-S60-Manasquan-f52f769dac183eeaa4084aa0cc3372f7.htm"
   },
   {
     "id": "YV140MTL2J2460100-56cc5670-9b91",
