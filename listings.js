@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-05-29 22:22 UTC
+// Last updated: 2026-05-30 10:41 UTC
 
 const LISTINGS = [
   {
@@ -104,13 +104,13 @@ const LISTINGS = [
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-sound-climate-pkg-awd-sedan-7jrl12th2rg290481/"
   },
   {
-    "id": "YV1612TK6G2397626-276aa632-e826",
+    "id": "YV1612TK6G2397626-dc872e0c-cb8d",
     "year": 2016,
     "trim": "T5 Premier",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 13995,
+    "price": 13495,
     "mileage": 59353,
     "color": "N/A",
     "colorCategory": "",
@@ -122,26 +122,6 @@ const LISTINGS = [
     "notes": "",
     "image": "https://vehicle-images.carscommerce.inc/40eb-11001792/YV1612TK6G2397626/312b22cf3ca2de6bdc8dfc70e7294e91.webp",
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2016-volvo-s60-4dr-sedan-t5-premier-awd-w-convenience-pkg-blis-pkg-awd-sedan-yv1612tk6g2397626/"
-  },
-  {
-    "id": "YV149MTS3H2422415-5ba88305-6077",
-    "year": 2017,
-    "trim": "T6 R-Design Platinum",
-    "trimCategory": "R-Design",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 13498,
-    "mileage": 87060,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakewood, NJ",
-    "lat": 40.082121,
-    "lng": -74.168241,
-    "dealer": "Auto Headquarters",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/00e2b46bca88260b880676601fc52fd9fe/2017-volvo-s60-t6-252520r-design-252520platinum.jpg?width=640&height=480&format=&sig=e465bd19e2c52cb2",
-    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
   },
   {
     "id": "YV1RS592382686824-0cfb0bf1-1b62",
@@ -164,6 +144,26 @@ const LISTINGS = [
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
   },
   {
+    "id": "YV149MTS3H2422415-5ba88305-6077",
+    "year": 2017,
+    "trim": "T6 R-Design Platinum",
+    "trimCategory": "R-Design",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 13498,
+    "mileage": 87060,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakewood, NJ",
+    "lat": 40.082121,
+    "lng": -74.168241,
+    "dealer": "Auto Headquarters",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/00e2b46bca88260b880676601fc52fd9fe/2017-volvo-s60-t6-252520r-design-252520platinum.jpg?width=640&height=480&format=&sig=e465bd19e2c52cb2",
+    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
+  },
+  {
     "id": "LYV612TK8GB094237-d397f641-418f",
     "year": 2016,
     "trim": "T5 Premier",
@@ -182,25 +182,5 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/0b9842574c2256d5eca5b63db75c7d50/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=8eb13ed0b800aff9",
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
-  },
-  {
-    "id": "YV126MFK1F2352261-32f85210-1c01",
-    "year": 2015,
-    "trim": "T5 Premier",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 8695,
-    "mileage": 91354,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Toms River, NJ",
-    "lat": 39.951581,
-    "lng": -74.151739,
-    "dealer": "Candor Inc",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/1b93fcbff454bf26ca49e73ba4bdb7d7/800x600/2015-volvo-s60-t5-drive-e-premier-4dr-sedan-midyear-release-.jpg",
-    "listingUrl": "https://www.candorauto.com/details/used-2015-volvo-s60/125116490"
   }
 ];
