@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-05-31 21:44 UTC
+// Last updated: 2026-06-01 14:43 UTC
 
 const LISTINGS = [
   {
@@ -84,6 +84,26 @@ const LISTINGS = [
     "listingUrl": "https://www.shoremotorgroup.com/inventory/volvo/s60/s5030/"
   },
   {
+    "id": "7JRBK0FP8LG071726-ac6196e3-f93a",
+    "year": 2020,
+    "trim": "Polestar",
+    "trimCategory": "Polestar Engineered",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 31900,
+    "mileage": 10965,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Ocean Township, NJ",
+    "lat": 40.239675,
+    "lng": -74.035454,
+    "dealer": "Jm Legend Auto Group",
+    "features": [],
+    "notes": "",
+    "image": "https://www.legendcarcompany.com/galleria_images/979/979_main_l.jpg",
+    "listingUrl": "https://www.legendcarcompany.com/2020-volvo-s60-t8-polestar-engineered-t8-polestar-engineered-c-979.htm"
+  },
+  {
     "id": "7JRL12TH2RG290481-94a515ef-d37d",
     "year": 2024,
     "trim": "Plus",
@@ -162,25 +182,5 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
-  },
-  {
-    "id": "LYV612TK8GB094237-d397f641-418f",
-    "year": 2016,
-    "trim": "T5 Premier",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 8495,
-    "mileage": 115646,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakewood, NJ",
-    "lat": 40.082401,
-    "lng": -74.169656,
-    "dealer": "Autoland Mall",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/0b9842574c2256d5eca5b63db75c7d50/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=8eb13ed0b800aff9",
-    "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   }
 ];
