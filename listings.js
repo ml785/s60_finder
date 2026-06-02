@@ -1,28 +1,8 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-01 22:54 UTC
+// Last updated: 2026-06-02 12:32 UTC
 
 const LISTINGS = [
-  {
-    "id": "7JRL12FK0RG280782-f658e933-fdd6",
-    "year": 2024,
-    "trim": "Core",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 31874,
-    "mileage": 21491,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1263/227fbe666a0f6504712ae80afcaccb90x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-51f30616ac180b21af76d646e80030b2.htm"
-  },
   {
     "id": "7JRL12FJ4SG367386-b48966b5-bd1f",
     "year": 2025,
@@ -62,6 +42,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://images.dealer.com/ddc/vehicles/2025/Volvo/S60/Sedan/trim_B5_Core_54e89b/color/Denim%20Blue%20Metallic-723-62,78,95-640-en_US.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/commercial-new/Volvo/2025-Volvo-S60-Manasquan-f52f4822ac181057016b4df8cc7b97b0.htm"
+  },
+  {
+    "id": "7JRL12FK0RG280782-f658e933-fdd6",
+    "year": 2024,
+    "trim": "Core",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 31874,
+    "mileage": 21491,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1263/227fbe666a0f6504712ae80afcaccb90x.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-51f30616ac180b21af76d646e80030b2.htm"
   },
   {
     "id": "YV140MTL2J2460100-56cc5670-9b91",
@@ -144,6 +144,26 @@ const LISTINGS = [
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2016-volvo-s60-4dr-sedan-t5-premier-awd-w-convenience-pkg-blis-pkg-awd-sedan-yv1612tk6g2397626/"
   },
   {
+    "id": "YV1RS592382686824-0cfb0bf1-1b62",
+    "year": 2008,
+    "trim": "2.5T",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 4498,
+    "mileage": 117535,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakewood, NJ",
+    "lat": 40.082121,
+    "lng": -74.168241,
+    "dealer": "Auto Headquarters",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
+    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
+  },
+  {
     "id": "YV149MTS3H2422415-5ba88305-6077",
     "year": 2017,
     "trim": "T6 R-Design Platinum",
@@ -164,23 +184,23 @@ const LISTINGS = [
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
   },
   {
-    "id": "YV1RS592382686824-0cfb0bf1-1b62",
-    "year": 2008,
-    "trim": "2.5T",
+    "id": "LYV612TK8GB094237-d397f641-418f",
+    "year": 2016,
+    "trim": "T5 Premier",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 4498,
-    "mileage": 117535,
+    "price": 8495,
+    "mileage": 115646,
     "color": "N/A",
     "colorCategory": "",
     "location": "Lakewood, NJ",
-    "lat": 40.082121,
-    "lng": -74.168241,
-    "dealer": "Auto Headquarters",
+    "lat": 40.082401,
+    "lng": -74.169656,
+    "dealer": "Autoland Mall",
     "features": [],
     "notes": "",
-    "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
-    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
+    "image": "https://cdn05.carsforsale.com/0b9842574c2256d5eca5b63db75c7d50/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=8eb13ed0b800aff9",
+    "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   }
 ];
