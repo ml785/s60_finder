@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-05 22:07 UTC
+// Last updated: 2026-06-06 10:47 UTC
 
 const LISTINGS = [
   {
@@ -180,7 +180,7 @@ const LISTINGS = [
     "dealer": "Autoland Mall",
     "features": [],
     "notes": "",
-    "image": "https://cdn05.carsforsale.com/0b9842574c2256d5eca5b63db75c7d50/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=8eb13ed0b800aff9",
+    "image": "https://cdn05.carsforsale.com/00f9ee280457c710afc513761f5d3f2ee5/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=74a571a1c22a4605",
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   },
   {
