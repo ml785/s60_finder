@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-06 21:52 UTC
+// Last updated: 2026-06-07 10:58 UTC
 
 const LISTINGS = [
   {
@@ -124,6 +124,26 @@ const LISTINGS = [
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2016-volvo-s60-4dr-sedan-t5-premier-awd-w-convenience-pkg-blis-pkg-awd-sedan-yv1612tk6g2397626/"
   },
   {
+    "id": "YV140MTL6J2460861-9f215458-2bed",
+    "year": 2018,
+    "trim": "Dynamic",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 10995,
+    "mileage": 102444,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Wall Township, NJ",
+    "lat": 40.21895,
+    "lng": -74.129766,
+    "dealer": "Automotive Avenues",
+    "features": [],
+    "notes": "",
+    "image": "https://vehicle-images.carscommerce.inc/abc7-11001792/YV140MTL6J2460861/17ec1c37363302d131dcc713aa10937f.webp",
+    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2018-volvo-s60-t5-awd-dynamic-awd-sedan-yv140mtl6j2460861/"
+  },
+  {
     "id": "YV149MTS3H2422415-5ba88305-6077",
     "year": 2017,
     "trim": "T6 R-Design Platinum",
@@ -162,45 +182,5 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
-  },
-  {
-    "id": "LYV612TK8GB094237-d397f641-418f",
-    "year": 2016,
-    "trim": "T5 Premier",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 8495,
-    "mileage": 115646,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakewood, NJ",
-    "lat": 40.082401,
-    "lng": -74.169656,
-    "dealer": "Autoland Mall",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/00f9ee280457c710afc513761f5d3f2ee5/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=74a571a1c22a4605",
-    "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
-  },
-  {
-    "id": "YV126MFK1F2352261-32f85210-1c01",
-    "year": 2015,
-    "trim": "T5 Premier",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 8695,
-    "mileage": 91354,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Toms River, NJ",
-    "lat": 39.951581,
-    "lng": -74.151739,
-    "dealer": "Candor Inc",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/1b93fcbff454bf26ca49e73ba4bdb7d7/800x600/2015-volvo-s60-t5-drive-e-premier-4dr-sedan-midyear-release-.jpg",
-    "listingUrl": "https://www.candorauto.com/details/used-2015-volvo-s60/125116490"
   }
 ];
