@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-07 21:55 UTC
+// Last updated: 2026-06-08 12:54 UTC
 
 const LISTINGS = [
   {
@@ -124,7 +124,7 @@ const LISTINGS = [
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2016-volvo-s60-4dr-sedan-t5-premier-awd-w-convenience-pkg-blis-pkg-awd-sedan-yv1612tk6g2397626/"
   },
   {
-    "id": "YV140MTL6J2460861-9f215458-2bed",
+    "id": "YV140MTL6J2460861-1d39798a-c17c",
     "year": 2018,
     "trim": "Dynamic",
     "trimCategory": "",
@@ -141,7 +141,7 @@ const LISTINGS = [
     "features": [],
     "notes": "",
     "image": "https://vehicle-images.carscommerce.inc/abc7-11001792/YV140MTL6J2460861/17ec1c37363302d131dcc713aa10937f.webp",
-    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2018-volvo-s60-t5-awd-dynamic-awd-sedan-yv140mtl6j2460861/"
+    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2018-volvo-s60-t5-awd-dynamic-w-vision-pkg-heated-steering-wheel-awd-sedan-yv140mtl6j2460861/"
   },
   {
     "id": "YV149MTS3H2422415-5ba88305-6077",
