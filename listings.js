@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-09 22:16 UTC
+// Last updated: 2026-06-10 12:11 UTC
 
 const LISTINGS = [
   {
@@ -84,13 +84,13 @@ const LISTINGS = [
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-sound-climate-pkg-awd-sedan-7jrl12th2rg290481/"
   },
   {
-    "id": "YV1612TK6G2397626-dc872e0c-cb8d",
+    "id": "YV1612TK6G2397626-41321172-f5f6",
     "year": 2016,
     "trim": "T5 Premier",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 13495,
+    "price": 12995,
     "mileage": 59353,
     "color": "N/A",
     "colorCategory": "",
@@ -124,26 +124,6 @@ const LISTINGS = [
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2018-volvo-s60-t5-awd-dynamic-w-vision-pkg-heated-steering-wheel-awd-sedan-yv140mtl6j2460861/"
   },
   {
-    "id": "YV149MTS3H2422415-5ba88305-6077",
-    "year": 2017,
-    "trim": "T6 R-Design Platinum",
-    "trimCategory": "R-Design",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 13498,
-    "mileage": 87060,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakewood, NJ",
-    "lat": 40.082121,
-    "lng": -74.168241,
-    "dealer": "Auto Headquarters",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/00e2b46bca88260b880676601fc52fd9fe/2017-volvo-s60-t6-252520r-design-252520platinum.jpg?width=640&height=480&format=&sig=e465bd19e2c52cb2",
-    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
-  },
-  {
     "id": "YV1RS592382686824-0cfb0bf1-1b62",
     "year": 2008,
     "trim": "2.5T",
@@ -162,25 +142,5 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
-  },
-  {
-    "id": "LYV612TK8GB094237-d397f641-418f",
-    "year": 2016,
-    "trim": "T5 Premier",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 8495,
-    "mileage": 115646,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakewood, NJ",
-    "lat": 40.082401,
-    "lng": -74.169656,
-    "dealer": "Autoland Mall",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/00f9ee280457c710afc513761f5d3f2ee5/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=74a571a1c22a4605",
-    "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   }
 ];
