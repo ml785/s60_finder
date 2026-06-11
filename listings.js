@@ -1,17 +1,17 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-10 22:44 UTC
+// Last updated: 2026-06-11 12:34 UTC
 
 const LISTINGS = [
   {
-    "id": "7JRL12FJ4SG367386-b48966b5-bd1f",
+    "id": "7JRL12FJ4SG367386-6b8a4f0e-6aba",
     "year": 2025,
     "trim": "Core",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
     "price": 46064,
-    "mileage": 0,
+    "mileage": 3060,
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
@@ -20,18 +20,18 @@ const LISTINGS = [
     "dealer": "Volvo Cars Manasquan",
     "features": [],
     "notes": "",
-    "image": "https://images.dealer.com/ddc/vehicles/2025/Volvo/S60/Sedan/trim_B5_Core_54e89b/color/Vapour%20Gray%20Metallic-740-164,165,169-640-en_US.jpg",
+    "image": "https://images.dealer.com/autodata/us/large_stockphoto/2025/USD50VOC171A0.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/commercial-new/Volvo/2025-Volvo-S60-Manasquan-f52f769dac183eeaa4084aa0cc3372f7.htm"
   },
   {
-    "id": "7JRL12FJXSG368722-3a91c85f-01d2",
+    "id": "7JRL12FJXSG368722-3e941322-5375",
     "year": 2025,
     "trim": "Core",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
     "price": 46064,
-    "mileage": 22,
+    "mileage": 24,
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
@@ -42,6 +42,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://images.dealer.com/ddc/vehicles/2025/Volvo/S60/Sedan/trim_B5_Core_54e89b/color/Denim%20Blue%20Metallic-723-62,78,95-640-en_US.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/commercial-new/Volvo/2025-Volvo-S60-Manasquan-f52f4822ac181057016b4df8cc7b97b0.htm"
+  },
+  {
+    "id": "7JRL12TL2RG284460-3f669783-382f",
+    "year": 2024,
+    "trim": "Plus",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 39874,
+    "mileage": 7279,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1799/c4bc26a97c281f46be204cfe56b58456x.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-992bfa7dac18098fa2f7a5d38cabd985.htm"
   },
   {
     "id": "YV140MTL2J2460100-56cc5670-9b91",
@@ -64,26 +84,6 @@ const LISTINGS = [
     "listingUrl": "https://www.shoremotorgroup.com/inventory/volvo/s60/s5030/"
   },
   {
-    "id": "7JRL12TH2RG290481-94a515ef-d37d",
-    "year": 2024,
-    "trim": "Plus",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 25495,
-    "mileage": 28095,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Wall Township, NJ",
-    "lat": 40.21895,
-    "lng": -74.129766,
-    "dealer": "Automotive Avenues",
-    "features": [],
-    "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/6a68-11001792/7JRL12TH2RG290481/b85e26084ee1a1af71fdcda8605df2a2.webp",
-    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-sound-climate-pkg-awd-sedan-7jrl12th2rg290481/"
-  },
-  {
     "id": "YV1612TK6G2397626-41321172-f5f6",
     "year": 2016,
     "trim": "T5 Premier",
@@ -104,24 +104,24 @@ const LISTINGS = [
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2016-volvo-s60-4dr-sedan-t5-premier-awd-w-convenience-pkg-blis-pkg-awd-sedan-yv1612tk6g2397626/"
   },
   {
-    "id": "YV140MTL6J2460861-1d39798a-c17c",
-    "year": 2018,
-    "trim": "Dynamic",
-    "trimCategory": "",
+    "id": "YV149MTS3H2422415-5ba88305-6077",
+    "year": 2017,
+    "trim": "T6 R-Design Platinum",
+    "trimCategory": "R-Design",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 10995,
-    "mileage": 102444,
+    "price": 13498,
+    "mileage": 87060,
     "color": "N/A",
     "colorCategory": "",
-    "location": "Wall Township, NJ",
-    "lat": 40.21895,
-    "lng": -74.129766,
-    "dealer": "Automotive Avenues",
+    "location": "Lakewood, NJ",
+    "lat": 40.082121,
+    "lng": -74.168241,
+    "dealer": "Auto Headquarters",
     "features": [],
     "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/abc7-11001792/YV140MTL6J2460861/17ec1c37363302d131dcc713aa10937f.webp",
-    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2018-volvo-s60-t5-awd-dynamic-w-vision-pkg-heated-steering-wheel-awd-sedan-yv140mtl6j2460861/"
+    "image": "https://cdn05.carsforsale.com/00e2b46bca88260b880676601fc52fd9fe/2017-volvo-s60-t6-252520r-design-252520platinum.jpg?width=640&height=480&format=&sig=e465bd19e2c52cb2",
+    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
   },
   {
     "id": "YV1RS592382686824-0cfb0bf1-1b62",
@@ -142,5 +142,25 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
+  },
+  {
+    "id": "LYV612TK8GB094237-d397f641-418f",
+    "year": 2016,
+    "trim": "T5 Premier",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 8495,
+    "mileage": 115646,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakewood, NJ",
+    "lat": 40.082401,
+    "lng": -74.169656,
+    "dealer": "Autoland Mall",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/00f9ee280457c710afc513761f5d3f2ee5/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=74a571a1c22a4605",
+    "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   }
 ];
