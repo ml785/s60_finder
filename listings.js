@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-11 22:44 UTC
+// Last updated: 2026-06-12 12:09 UTC
 
 const LISTINGS = [
   {
@@ -15,7 +15,7 @@ const LISTINGS = [
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
-    "lat": 40.125767,
+    "lat": 40.125766,
     "lng": -74.068956,
     "dealer": "Volvo Cars Manasquan",
     "features": [],
@@ -35,7 +35,7 @@ const LISTINGS = [
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
-    "lat": 40.125767,
+    "lat": 40.125766,
     "lng": -74.068956,
     "dealer": "Volvo Cars Manasquan",
     "features": [],
