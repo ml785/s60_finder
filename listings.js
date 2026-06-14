@@ -1,16 +1,16 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-13 21:55 UTC
+// Last updated: 2026-06-14 11:21 UTC
 
 const LISTINGS = [
   {
-    "id": "7JRL12FJ4SG367386-34e4536d-4b03",
+    "id": "7JRL12FJ4SG367386-3700ad10-eeba",
     "year": 2025,
     "trim": "Core",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 46064,
+    "price": 36064,
     "mileage": 3060,
     "color": "N/A",
     "colorCategory": "",
@@ -24,13 +24,13 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/commercial-used/Volvo/2025-Volvo-S60-Manasquan-f52f769dac183eeaa4084aa0cc3372f7.htm"
   },
   {
-    "id": "7JRL12FJXSG368722-78583d9d-9346",
+    "id": "7JRL12FJXSG368722-0462b5d5-c356",
     "year": 2025,
     "trim": "Core",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 46064,
+    "price": 36064,
     "mileage": 24,
     "color": "N/A",
     "colorCategory": "",
@@ -84,27 +84,7 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
   },
   {
-    "id": "7JRL12FL5RG299434-0cbc0ab1-4739",
-    "year": 2024,
-    "trim": "Plus",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 30874,
-    "mileage": 30693,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1323/7df290f89dcae2f56d597a55889a6d43x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-aa593d87ac181667357b41b8d8ca40c4.htm"
-  },
-  {
-    "id": "YV1612FH3D2186508-81351a7d-a40c",
+    "id": "YV1612FH3D2186508-2f89b4c0-1e27",
     "year": 2013,
     "trim": "T5 Premier",
     "trimCategory": "",
@@ -121,7 +101,7 @@ const LISTINGS = [
     "features": [],
     "notes": "",
     "image": "https://photos.autocorner.com/640x480/OthqiOgpflAwwUKPFV9UALqYuVV5xQo24ae6qtBkBczW911mncT7lcDxJyPuX7iS.webp",
-    "listingUrl": "http://www.iandbautonj.com/vehicles/2013%20Volvo%20S40/4D0F8226-65A7-11F1-82BC-8DA51B981250"
+    "listingUrl": "http://www.iandbautonj.com/vehicles/2013%20Volvo%20S60/4D0F8226-65A7-11F1-82BC-8DA51B981250"
   },
   {
     "id": "7JRL12TV6PG244722-1405333b-80d5",
@@ -202,5 +182,25 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/00e2b46bca88260b880676601fc52fd9fe/2017-volvo-s60-t6-252520r-design-252520platinum.jpg?width=640&height=480&format=&sig=e465bd19e2c52cb2",
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
+  },
+  {
+    "id": "YV1RS592382686824-0cfb0bf1-1b62",
+    "year": 2008,
+    "trim": "2.5T",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 4498,
+    "mileage": 117535,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakewood, NJ",
+    "lat": 40.082121,
+    "lng": -74.168241,
+    "dealer": "Auto Headquarters",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
+    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
   }
 ];
