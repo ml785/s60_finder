@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-14 22:00 UTC
+// Last updated: 2026-06-15 14:52 UTC
 
 const LISTINGS = [
   {
@@ -104,26 +104,6 @@ const LISTINGS = [
     "listingUrl": "http://www.iandbautonj.com/vehicles/2013%20Volvo%20S60/4D0F8226-65A7-11F1-82BC-8DA51B981250"
   },
   {
-    "id": "7JRL12TV6PG244722-1405333b-80d5",
-    "year": 2023,
-    "trim": "Core",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 21495,
-    "mileage": 47516,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Wall Township, NJ",
-    "lat": 40.21895,
-    "lng": -74.129766,
-    "dealer": "Automotive Avenues",
-    "features": [],
-    "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/2886-11001792/7JRL12TV6PG244722/f7d840f75bb151a35452c60f5dbdbd17.webp",
-    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2023-volvo-s60-b5-awd-core-dark-theme-w-climate-pkg-awd-sedan-7jrl12tv6pg244722/"
-  },
-  {
     "id": "YV1612TK6G2397626-41321172-f5f6",
     "year": 2016,
     "trim": "T5 Premier",
@@ -202,5 +182,25 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
+  },
+  {
+    "id": "LYV612TK8GB094237-d397f641-418f",
+    "year": 2016,
+    "trim": "T5 Premier",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 8495,
+    "mileage": 115646,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakewood, NJ",
+    "lat": 40.082401,
+    "lng": -74.169656,
+    "dealer": "Autoland Mall",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/00f9ee280457c710afc513761f5d3f2ee5/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=74a571a1c22a4605",
+    "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   }
 ];
