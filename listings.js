@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-16 22:45 UTC
+// Last updated: 2026-06-17 12:43 UTC
 
 const LISTINGS = [
   {
@@ -104,13 +104,13 @@ const LISTINGS = [
     "listingUrl": "http://www.iandbautonj.com/vehicles/2013%20Volvo%20S60/4D0F8226-65A7-11F1-82BC-8DA51B981250"
   },
   {
-    "id": "YV1612TK6G2397626-41321172-f5f6",
+    "id": "YV1612TK6G2397626-f98d5a89-bcdc",
     "year": 2016,
     "trim": "T5 Premier",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 12995,
+    "price": 12895,
     "mileage": 59353,
     "color": "N/A",
     "colorCategory": "",
