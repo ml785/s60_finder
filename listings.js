@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-17 22:27 UTC
+// Last updated: 2026-06-18 12:15 UTC
 
 const LISTINGS = [
   {
@@ -44,14 +44,14 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/commercial-used/Volvo/2025-Volvo-S60-Manasquan-f52f4822ac181057016b4df8cc7b97b0.htm"
   },
   {
-    "id": "7JRL12TL2RG284460-3f669783-382f",
+    "id": "7JRL12TL2RG284460-bf756f04-0d79",
     "year": 2024,
     "trim": "Plus",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
     "price": 39874,
-    "mileage": 7279,
+    "mileage": 7295,
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
@@ -104,6 +104,26 @@ const LISTINGS = [
     "listingUrl": "http://www.iandbautonj.com/vehicles/2013%20Volvo%20S60/4D0F8226-65A7-11F1-82BC-8DA51B981250"
   },
   {
+    "id": "7JRL12TK5PG232017-5366fdfc-942a",
+    "year": 2023,
+    "trim": "Core",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 21995,
+    "mileage": 21812,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Wall Township, NJ",
+    "lat": 40.21895,
+    "lng": -74.129766,
+    "dealer": "Automotive Avenues",
+    "features": [],
+    "notes": "",
+    "image": "https://vehicle-images.carscommerce.inc/7081-11001792/7JRL12TK5PG232017/b8d2e02e4e3028d030ecae239994f5b1.webp",
+    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2023-volvo-s60-b5-awd-core-dark-theme-awd-sedan-7jrl12tk5pg232017/"
+  },
+  {
     "id": "YV1612TK6G2397626-f98d5a89-bcdc",
     "year": 2016,
     "trim": "T5 Premier",
@@ -144,26 +164,6 @@ const LISTINGS = [
     "listingUrl": "https://www.autolenders.com/used-car-inventory/Volvo-S60-PG250430"
   },
   {
-    "id": "YV149MTS3H2422415-5ba88305-6077",
-    "year": 2017,
-    "trim": "T6 R-Design Platinum",
-    "trimCategory": "R-Design",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 13498,
-    "mileage": 87060,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakewood, NJ",
-    "lat": 40.082121,
-    "lng": -74.168241,
-    "dealer": "Auto Headquarters",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/00e2b46bca88260b880676601fc52fd9fe/2017-volvo-s60-t6-252520r-design-252520platinum.jpg?width=640&height=480&format=&sig=e465bd19e2c52cb2",
-    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
-  },
-  {
     "id": "YV1RS592382686824-0cfb0bf1-1b62",
     "year": 2008,
     "trim": "2.5T",
@@ -184,23 +184,23 @@ const LISTINGS = [
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
   },
   {
-    "id": "LYV612TK8GB094237-d397f641-418f",
-    "year": 2016,
-    "trim": "T5 Premier",
-    "trimCategory": "",
+    "id": "YV149MTS3H2422415-5ba88305-6077",
+    "year": 2017,
+    "trim": "T6 R-Design Platinum",
+    "trimCategory": "R-Design",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 8495,
-    "mileage": 115646,
+    "price": 13498,
+    "mileage": 87060,
     "color": "N/A",
     "colorCategory": "",
     "location": "Lakewood, NJ",
-    "lat": 40.082401,
-    "lng": -74.169656,
-    "dealer": "Autoland Mall",
+    "lat": 40.082121,
+    "lng": -74.168241,
+    "dealer": "Auto Headquarters",
     "features": [],
     "notes": "",
-    "image": "https://cdn05.carsforsale.com/00f9ee280457c710afc513761f5d3f2ee5/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=74a571a1c22a4605",
-    "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
+    "image": "https://cdn05.carsforsale.com/00e2b46bca88260b880676601fc52fd9fe/2017-volvo-s60-t6-252520r-design-252520platinum.jpg?width=640&height=480&format=&sig=e465bd19e2c52cb2",
+    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
   }
 ];
