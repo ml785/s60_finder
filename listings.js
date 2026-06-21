@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-21 11:36 UTC
+// Last updated: 2026-06-21 22:05 UTC
 
 const LISTINGS = [
   {
@@ -162,26 +162,6 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/00f9ee280457c710afc513761f5d3f2ee5/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=74a571a1c22a4605",
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
-  },
-  {
-    "id": "LYV612TM8GB106758-40914690-2600",
-    "year": 2016,
-    "trim": "T5 Platinum",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 8995,
-    "mileage": 141002,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakewood, NJ",
-    "lat": 40.08249,
-    "lng": -74.171349,
-    "dealer": "Cars R Us Auto Sales Llc",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/009c0591047e8035bc214146206b24f563/800x600/2016-volvo-s60-t5-inscription-platinum-awd-4dr-sedan.jpg",
-    "listingUrl": "https://www.carsrusautosnj.com/details/used-2016-volvo-s60/126524283"
   },
   {
     "id": "7JRL12TL4RG297100-b5a46375-a3c6",
