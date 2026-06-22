@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-21 22:05 UTC
+// Last updated: 2026-06-22 14:20 UTC
 
 const LISTINGS = [
   {
@@ -182,5 +182,25 @@ const LISTINGS = [
     "notes": "",
     "image": "https://vehicle-images.carscommerce.inc/4a91-110010971/7JRL12TL4RG297100/07b7d5fac0c1f83171e63bdd288bc992.webp",
     "listingUrl": "https://www.pinebeltsubaru.com/inventory/used-2024-volvo-s60-b5-plus-dark-theme-awd-sedan-7jrl12tl4rg297100/"
+  },
+  {
+    "id": "7JR102FK2LG036780-2c67e3f5-6cfd",
+    "year": 2020,
+    "trim": "Momentum",
+    "trimCategory": "Momentum",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 20995,
+    "mileage": 53858,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Red Bank, NJ",
+    "lat": 40.338407,
+    "lng": -74.065124,
+    "dealer": "Auto Exotica",
+    "features": [],
+    "notes": "",
+    "image": "https://automanagerprodcdn.azureedge.net/wmcontent/clients/images/comingsoon_640.jpg",
+    "listingUrl": "https://www.autoexoticainc.com/vehicle-details/2020-volvo-s60-t5-momentum-sedan-74fef8a023af441a968e79e4a79bde26"
   }
 ];
