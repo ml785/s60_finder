@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-23 22:06 UTC
+// Last updated: 2026-06-24 11:35 UTC
 
 const LISTINGS = [
   {
@@ -164,13 +164,13 @@ const LISTINGS = [
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   },
   {
-    "id": "7JRL12TL4RG297100-b5a46375-a3c6",
+    "id": "7JRL12TL4RG297100-37a5c095-f697",
     "year": 2024,
     "trim": "Plus",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 29736,
+    "price": 29436,
     "mileage": 49830,
     "color": "N/A",
     "colorCategory": "",
@@ -184,23 +184,23 @@ const LISTINGS = [
     "listingUrl": "https://www.pinebeltsubaru.com/inventory/used-2024-volvo-s60-b5-plus-dark-theme-awd-sedan-7jrl12tl4rg297100/"
   },
   {
-    "id": "7JR102FK2LG036780-2c67e3f5-6cfd",
-    "year": 2020,
-    "trim": "Momentum",
-    "trimCategory": "Momentum",
+    "id": "LYV402HK1JB162727-ab5f5e46-da94",
+    "year": 2018,
+    "trim": "Inscription",
+    "trimCategory": "Inscription",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 20995,
-    "mileage": 53858,
+    "price": 9900,
+    "mileage": 98264,
     "color": "N/A",
     "colorCategory": "",
-    "location": "Red Bank, NJ",
-    "lat": 40.338407,
-    "lng": -74.065124,
-    "dealer": "Auto Exotica",
+    "location": "Toms River, NJ",
+    "lat": 40.013002,
+    "lng": -74.146731,
+    "dealer": "Silverton Motors",
     "features": [],
     "notes": "",
-    "image": "https://automanagerprodcdn.azureedge.net/wmcontent/clients/images/comingsoon_640.jpg",
-    "listingUrl": "https://www.autoexoticainc.com/vehicle-details/2020-volvo-s60-t5-momentum-sedan-74fef8a023af441a968e79e4a79bde26"
+    "image": "https://imagescf.dealercenter.net/1024/768/202604-d49a2e382d9c431da968867654aaf47d.jpg",
+    "listingUrl": "https://www.silvertonmotors.com/inventory/volvo/s60/jb162727/"
   }
 ];
