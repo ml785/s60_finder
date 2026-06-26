@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-25 22:13 UTC
+// Last updated: 2026-06-26 11:35 UTC
 
 const LISTINGS = [
   {
@@ -62,6 +62,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://photos.autocorner.com/640x480/OthqiOgpflAwwUKPFV9UALqYuVV5xQo24ae6qtBkBczW911mncT7lcDxJyPuX7iS.webp",
     "listingUrl": "http://www.iandbautonj.com/vehicles/2013%20Volvo%20S60/4D0F8226-65A7-11F1-82BC-8DA51B981250"
+  },
+  {
+    "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
+    "year": 2024,
+    "trim": "Plus",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 28495,
+    "mileage": 15580,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Wall Township, NJ",
+    "lat": 40.21895,
+    "lng": -74.129766,
+    "dealer": "Automotive Avenues",
+    "features": [],
+    "notes": "",
+    "image": "https://vehicle-images.carscommerce.inc/ebee-11001792/7JRL12TH7RG311101/e2082c304b8de8177a1cb2965ad85837.webp",
+    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
   },
   {
     "id": "7JRL12TK5PG232017-5366fdfc-942a",
@@ -164,23 +184,23 @@ const LISTINGS = [
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   },
   {
-    "id": "7JRL12TL4RG297100-37a5c095-f697",
-    "year": 2024,
-    "trim": "Plus",
-    "trimCategory": "",
+    "id": "7JR102FK2LG036780-2c67e3f5-6cfd",
+    "year": 2020,
+    "trim": "Momentum",
+    "trimCategory": "Momentum",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 29436,
-    "mileage": 49830,
+    "price": 20995,
+    "mileage": 53858,
     "color": "N/A",
     "colorCategory": "",
-    "location": "Brick Township, NJ",
-    "lat": 40.0857,
-    "lng": -74.175387,
-    "dealer": "Pine Belt Subaru",
+    "location": "Red Bank, NJ",
+    "lat": 40.338407,
+    "lng": -74.065124,
+    "dealer": "Auto Exotica",
     "features": [],
     "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/4a91-110010971/7JRL12TL4RG297100/07b7d5fac0c1f83171e63bdd288bc992.webp",
-    "listingUrl": "https://www.pinebeltsubaru.com/inventory/used-2024-volvo-s60-b5-plus-dark-theme-awd-sedan-7jrl12tl4rg297100/"
+    "image": "https://automanager.blob.core.windows.net/wmphotos/003269/74fef8a023af441a968e79e4a79bde26/20cac2d097_1280.jpg",
+    "listingUrl": "https://www.autoexoticainc.com/vehicle-details/2020-volvo-s60-t5-momentum-sedan-74fef8a023af441a968e79e4a79bde26"
   }
 ];
