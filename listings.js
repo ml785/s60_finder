@@ -1,28 +1,8 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-26 21:58 UTC
+// Last updated: 2026-06-27 10:50 UTC
 
 const LISTINGS = [
-  {
-    "id": "7JRL12TL2RG284460-bf756f04-0d79",
-    "year": 2024,
-    "trim": "Plus",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 39874,
-    "mileage": 7295,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1799/c4bc26a97c281f46be204cfe56b58456x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-992bfa7dac18098fa2f7a5d38cabd985.htm"
-  },
   {
     "id": "7JRL12TW9PG251205-0311fb4e-1baf",
     "year": 2023,
@@ -64,26 +44,6 @@ const LISTINGS = [
     "listingUrl": "http://www.iandbautonj.com/vehicles/2013%20Volvo%20S60/4D0F8226-65A7-11F1-82BC-8DA51B981250"
   },
   {
-    "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
-    "year": 2024,
-    "trim": "Plus",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 28495,
-    "mileage": 15580,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Wall Township, NJ",
-    "lat": 40.21895,
-    "lng": -74.129766,
-    "dealer": "Automotive Avenues",
-    "features": [],
-    "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/ebee-11001792/7JRL12TH7RG311101/e2082c304b8de8177a1cb2965ad85837.webp",
-    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
-  },
-  {
     "id": "7JRL12TK5PG232017-5366fdfc-942a",
     "year": 2023,
     "trim": "Core",
@@ -102,6 +62,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://vehicle-images.carscommerce.inc/7081-11001792/7JRL12TK5PG232017/b8d2e02e4e3028d030ecae239994f5b1.webp",
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2023-volvo-s60-b5-awd-core-dark-theme-awd-sedan-7jrl12tk5pg232017/"
+  },
+  {
+    "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
+    "year": 2024,
+    "trim": "Plus",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 28495,
+    "mileage": 15580,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Wall Township, NJ",
+    "lat": 40.21895,
+    "lng": -74.129766,
+    "dealer": "Automotive Avenues",
+    "features": [],
+    "notes": "",
+    "image": "https://vehicle-images.carscommerce.inc/ebee-11001792/7JRL12TH7RG311101/e2082c304b8de8177a1cb2965ad85837.webp",
+    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
   },
   {
     "id": "7JRL12TT3PG250430-969ef536-3998",
@@ -182,6 +162,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/00f9ee280457c710afc513761f5d3f2ee5/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=74a571a1c22a4605",
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
+  },
+  {
+    "id": "LYV402HK1JB162727-0cdffbc6-aadf",
+    "year": 2018,
+    "trim": "Inscription",
+    "trimCategory": "Inscription",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 8900,
+    "mileage": 98264,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Toms River, NJ",
+    "lat": 40.013002,
+    "lng": -74.146731,
+    "dealer": "Silverton Motors",
+    "features": [],
+    "notes": "",
+    "image": "https://imagescf.dealercenter.net/1024/768/202604-d49a2e382d9c431da968867654aaf47d.jpg",
+    "listingUrl": "https://www.silvertonmotors.com/inventory/volvo/s60/jb162727/"
   },
   {
     "id": "7JR102FK2LG036780-2c67e3f5-6cfd",
