@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-29 22:01 UTC
+// Last updated: 2026-06-30 11:36 UTC
 
 const LISTINGS = [
   {
@@ -44,26 +44,6 @@ const LISTINGS = [
     "listingUrl": "http://www.iandbautonj.com/vehicles/2013%20Volvo%20S60/4D0F8226-65A7-11F1-82BC-8DA51B981250"
   },
   {
-    "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
-    "year": 2024,
-    "trim": "Plus",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 28495,
-    "mileage": 15580,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Wall Township, NJ",
-    "lat": 40.21895,
-    "lng": -74.129766,
-    "dealer": "Automotive Avenues",
-    "features": [],
-    "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/ebee-11001792/7JRL12TH7RG311101/e2082c304b8de8177a1cb2965ad85837.webp",
-    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
-  },
-  {
     "id": "7JRL12TK5PG232017-5366fdfc-942a",
     "year": 2023,
     "trim": "Core",
@@ -82,6 +62,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://vehicle-images.carscommerce.inc/7081-11001792/7JRL12TK5PG232017/b8d2e02e4e3028d030ecae239994f5b1.webp",
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2023-volvo-s60-b5-awd-core-dark-theme-awd-sedan-7jrl12tk5pg232017/"
+  },
+  {
+    "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
+    "year": 2024,
+    "trim": "Plus",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 28495,
+    "mileage": 15580,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Wall Township, NJ",
+    "lat": 40.21895,
+    "lng": -74.129766,
+    "dealer": "Automotive Avenues",
+    "features": [],
+    "notes": "",
+    "image": "https://vehicle-images.carscommerce.inc/ebee-11001792/7JRL12TH7RG311101/e2082c304b8de8177a1cb2965ad85837.webp",
+    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
   },
   {
     "id": "7JRL12TT3PG250430-969ef536-3998",
