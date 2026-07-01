@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-06-30 22:05 UTC
+// Last updated: 2026-07-01 11:47 UTC
 
 const LISTINGS = [
   {
@@ -24,24 +24,24 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
   },
   {
-    "id": "YV1612FH3D2186508-2f89b4c0-1e27",
-    "year": 2013,
-    "trim": "T5 Premier",
+    "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
+    "year": 2024,
+    "trim": "Plus",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 8995,
-    "mileage": 108617,
+    "price": 28495,
+    "mileage": 15580,
     "color": "N/A",
     "colorCategory": "",
-    "location": "Asbury Park, NJ",
-    "lat": 40.222494,
-    "lng": -74.012792,
-    "dealer": "I & B Business Corp.",
+    "location": "Wall Township, NJ",
+    "lat": 40.21895,
+    "lng": -74.129766,
+    "dealer": "Automotive Avenues",
     "features": [],
     "notes": "",
-    "image": "https://photos.autocorner.com/640x480/OthqiOgpflAwwUKPFV9UALqYuVV5xQo24ae6qtBkBczW911mncT7lcDxJyPuX7iS.webp",
-    "listingUrl": "http://www.iandbautonj.com/vehicles/2013%20Volvo%20S60/4D0F8226-65A7-11F1-82BC-8DA51B981250"
+    "image": "https://vehicle-images.carscommerce.inc/ebee-11001792/7JRL12TH7RG311101/e2082c304b8de8177a1cb2965ad85837.webp",
+    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
   },
   {
     "id": "7JRL12TK5PG232017-5366fdfc-942a",
@@ -62,26 +62,6 @@ const LISTINGS = [
     "notes": "",
     "image": "https://vehicle-images.carscommerce.inc/7081-11001792/7JRL12TK5PG232017/b8d2e02e4e3028d030ecae239994f5b1.webp",
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2023-volvo-s60-b5-awd-core-dark-theme-awd-sedan-7jrl12tk5pg232017/"
-  },
-  {
-    "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
-    "year": 2024,
-    "trim": "Plus",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 28495,
-    "mileage": 15580,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Wall Township, NJ",
-    "lat": 40.21895,
-    "lng": -74.129766,
-    "dealer": "Automotive Avenues",
-    "features": [],
-    "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/ebee-11001792/7JRL12TH7RG311101/e2082c304b8de8177a1cb2965ad85837.webp",
-    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
   },
   {
     "id": "7JRL12TT3PG250430-969ef536-3998",
@@ -164,6 +144,46 @@ const LISTINGS = [
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   },
   {
+    "id": "LYV402HK1JB162727-af331188-1cf5",
+    "year": 2018,
+    "trim": "Inscription",
+    "trimCategory": "Inscription",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 7900,
+    "mileage": 98264,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Toms River, NJ",
+    "lat": 40.013002,
+    "lng": -74.146731,
+    "dealer": "Silverton Motors",
+    "features": [],
+    "notes": "",
+    "image": "https://imagescf.dealercenter.net/1024/768/202604-d49a2e382d9c431da968867654aaf47d.jpg",
+    "listingUrl": "https://www.silvertonmotors.com/inventory/volvo/s60/jb162727/"
+  },
+  {
+    "id": "7JR102FK2LG036780-ad702d1d-2edc",
+    "year": 2020,
+    "trim": "Momentum",
+    "trimCategory": "Momentum",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 20995,
+    "mileage": 53858,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Red Bank, NJ",
+    "lat": 40.338407,
+    "lng": -74.065124,
+    "dealer": "Auto Exotica",
+    "features": [],
+    "notes": "",
+    "image": "https://automanager.blob.core.windows.net/wmphotos/003269/a4fd03676b375547ad914b212200b487/20cac2d097_1280.jpg",
+    "listingUrl": "https://www.autoexoticainc.com/vehicle-details/2020-volvo-s60-t5-momentum-sedan-a4fd03676b375547ad914b212200b487"
+  },
+  {
     "id": "7JRL12TMXRG295442-00a6e3ad-e4bf",
     "year": 2024,
     "trim": "Ultimate",
@@ -182,25 +202,5 @@ const LISTINGS = [
     "notes": "",
     "image": "https://pictures.dealer.com/v/volvocarsredbankvcna/1077/ac68368cf2f09618245a80b8f8f09eb9x.jpg",
     "listingUrl": "https://www.volvocarsredbank.com/certified/Volvo/2024-Volvo-S60-cd8a4085ac1858f1357ca0a606592c03.htm"
-  },
-  {
-    "id": "YV126MFK0G1399241-5365556d-3f29",
-    "year": 2016,
-    "trim": "T5 Premier",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 9874,
-    "mileage": 94486,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Toms River, NJ",
-    "lat": 39.961782,
-    "lng": -74.179135,
-    "dealer": "Toms River Volkswagen",
-    "features": [],
-    "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/d7e9-11002034/YV126MFK0G1399241/5fed65ffcdb4369799d36d87e2b5b274.webp",
-    "listingUrl": "https://www.tomsrivervw.com/inventory/used-2016-volvo-s60-t5-drive-e-premier-fwd-4d-sedan-yv126mfk0g1399241/"
   }
 ];
