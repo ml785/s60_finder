@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-07-01 22:10 UTC
+// Last updated: 2026-07-02 11:23 UTC
 
 const LISTINGS = [
   {
@@ -84,26 +84,6 @@ const LISTINGS = [
     "listingUrl": "https://www.autolenders.com/used-car-inventory/Volvo-S60-PG250430"
   },
   {
-    "id": "YV149MTS3H2422415-5ba88305-6077",
-    "year": 2017,
-    "trim": "T6 R-Design Platinum",
-    "trimCategory": "R-Design",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 13498,
-    "mileage": 87060,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakewood, NJ",
-    "lat": 40.082121,
-    "lng": -74.168241,
-    "dealer": "Auto Headquarters",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/00e2b46bca88260b880676601fc52fd9fe/2017-volvo-s60-t6-252520r-design-252520platinum.jpg?width=640&height=480&format=&sig=e465bd19e2c52cb2",
-    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
-  },
-  {
     "id": "YV1RS592382686824-0cfb0bf1-1b62",
     "year": 2008,
     "trim": "2.5T",
@@ -122,6 +102,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
+  },
+  {
+    "id": "YV149MTS3H2422415-5ba88305-6077",
+    "year": 2017,
+    "trim": "T6 R-Design Platinum",
+    "trimCategory": "R-Design",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 13498,
+    "mileage": 87060,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakewood, NJ",
+    "lat": 40.082121,
+    "lng": -74.168241,
+    "dealer": "Auto Headquarters",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/00e2b46bca88260b880676601fc52fd9fe/2017-volvo-s60-t6-252520r-design-252520platinum.jpg?width=640&height=480&format=&sig=e465bd19e2c52cb2",
+    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
   },
   {
     "id": "LYV612TK8GB094237-d397f641-418f",
@@ -144,26 +144,6 @@ const LISTINGS = [
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   },
   {
-    "id": "LYV402HK1JB162727-af331188-1cf5",
-    "year": 2018,
-    "trim": "Inscription",
-    "trimCategory": "Inscription",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 7900,
-    "mileage": 98264,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Toms River, NJ",
-    "lat": 40.013002,
-    "lng": -74.146731,
-    "dealer": "Silverton Motors",
-    "features": [],
-    "notes": "",
-    "image": "https://imagescf.dealercenter.net/1024/768/202604-d49a2e382d9c431da968867654aaf47d.jpg",
-    "listingUrl": "https://www.silvertonmotors.com/inventory/volvo/s60/jb162727/"
-  },
-  {
     "id": "7JR102FK2LG036780-ad702d1d-2edc",
     "year": 2020,
     "trim": "Momentum",
@@ -184,23 +164,43 @@ const LISTINGS = [
     "listingUrl": "https://www.autoexoticainc.com/vehicle-details/2020-volvo-s60-t5-momentum-sedan-a4fd03676b375547ad914b212200b487"
   },
   {
-    "id": "7JRL12TMXRG295442-00a6e3ad-e4bf",
-    "year": 2024,
-    "trim": "Ultimate",
+    "id": "YV126MFK0G1399241-5365556d-3f29",
+    "year": 2016,
+    "trim": "T5 Premier",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 36395,
-    "mileage": 30225,
+    "price": 9874,
+    "mileage": 94486,
     "color": "N/A",
     "colorCategory": "",
-    "location": "Red Bank, NJ",
-    "lat": 40.337671,
-    "lng": -74.072386,
-    "dealer": "Volvo Cars Of Red Bank",
+    "location": "Toms River, NJ",
+    "lat": 39.961782,
+    "lng": -74.179135,
+    "dealer": "Toms River Volkswagen",
     "features": [],
     "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsredbankvcna/1077/ac68368cf2f09618245a80b8f8f09eb9x.jpg",
-    "listingUrl": "https://www.volvocarsredbank.com/certified/Volvo/2024-Volvo-S60-cd8a4085ac1858f1357ca0a606592c03.htm"
+    "image": "https://vehicle-images.carscommerce.inc/d7e9-11002034/YV126MFK0G1399241/5fed65ffcdb4369799d36d87e2b5b274.webp",
+    "listingUrl": "https://www.tomsrivervw.com/inventory/used-2016-volvo-s60-t5-drive-e-premier-fwd-4d-sedan-yv126mfk0g1399241/"
+  },
+  {
+    "id": "YV1622FSXC2080810-0a6ac725-6e1c",
+    "year": 2012,
+    "trim": "T5",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 5995,
+    "mileage": 107445,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakehurst, NJ",
+    "lat": 40.014242,
+    "lng": -74.320094,
+    "dealer": "Jims Auto Sales",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/658417032b2bb5bb1ec36e902804358b/800x600/2012-volvo-s60-t5-4dr-sedan.jpg",
+    "listingUrl": "https://www.jimsautosalesnj.com/details/used-2012-volvo-s60/125983879"
   }
 ];
