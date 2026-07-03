@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-07-03 11:22 UTC
+// Last updated: 2026-07-03 21:52 UTC
 
 const LISTINGS = [
   {
@@ -24,26 +24,6 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
   },
   {
-    "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
-    "year": 2024,
-    "trim": "Plus",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 28495,
-    "mileage": 15580,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Wall Township, NJ",
-    "lat": 40.21895,
-    "lng": -74.129766,
-    "dealer": "Automotive Avenues",
-    "features": [],
-    "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/ebee-11001792/7JRL12TH7RG311101/e2082c304b8de8177a1cb2965ad85837.webp",
-    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
-  },
-  {
     "id": "7JRL12TK5PG232017-5366fdfc-942a",
     "year": 2023,
     "trim": "Core",
@@ -62,6 +42,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://vehicle-images.carscommerce.inc/7081-11001792/7JRL12TK5PG232017/b8d2e02e4e3028d030ecae239994f5b1.webp",
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2023-volvo-s60-b5-awd-core-dark-theme-awd-sedan-7jrl12tk5pg232017/"
+  },
+  {
+    "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
+    "year": 2024,
+    "trim": "Plus",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 28495,
+    "mileage": 15580,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Wall Township, NJ",
+    "lat": 40.21895,
+    "lng": -74.129766,
+    "dealer": "Automotive Avenues",
+    "features": [],
+    "notes": "",
+    "image": "https://vehicle-images.carscommerce.inc/ebee-11001792/7JRL12TH7RG311101/e2082c304b8de8177a1cb2965ad85837.webp",
+    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
   },
   {
     "id": "7JRL12TT3PG250430-969ef536-3998",
@@ -164,7 +164,7 @@ const LISTINGS = [
     "listingUrl": "https://www.autoexoticainc.com/vehicle-details/2020-volvo-s60-t5-momentum-sedan-a4fd03676b375547ad914b212200b487"
   },
   {
-    "id": "YV126MFK0G1399241-5365556d-3f29",
+    "id": "YV126MFK0G1399241-a1e23f4a-bd59",
     "year": 2016,
     "trim": "T5 Premier",
     "trimCategory": "",
@@ -175,32 +175,12 @@ const LISTINGS = [
     "color": "N/A",
     "colorCategory": "",
     "location": "Toms River, NJ",
-    "lat": 39.961782,
-    "lng": -74.179135,
-    "dealer": "Toms River Volkswagen",
+    "lat": 39.962046,
+    "lng": -74.179639,
+    "dealer": "Toms River Mitsubishi",
     "features": [],
     "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/d7e9-11002034/YV126MFK0G1399241/5fed65ffcdb4369799d36d87e2b5b274.webp",
-    "listingUrl": "https://www.tomsrivervw.com/inventory/used-2016-volvo-s60-t5-drive-e-premier-fwd-4d-sedan-yv126mfk0g1399241/"
-  },
-  {
-    "id": "YV1622FSXC2080810-0a6ac725-6e1c",
-    "year": 2012,
-    "trim": "T5",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 5995,
-    "mileage": 107445,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakehurst, NJ",
-    "lat": 40.014242,
-    "lng": -74.320094,
-    "dealer": "Jims Auto Sales",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/658417032b2bb5bb1ec36e902804358b/800x600/2012-volvo-s60-t5-4dr-sedan.jpg",
-    "listingUrl": "https://www.jimsautosalesnj.com/details/used-2012-volvo-s60/125983879"
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1255f0d21936404b96ec5ce0dbc1a476.jpg",
+    "listingUrl": "https://www.tomsrivermitsubishi.com/viewdetails/used/yv126mfk0g1399241/2016-volvo-s60-4dr-car?type=finance"
   }
 ];
