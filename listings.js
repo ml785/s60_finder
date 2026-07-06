@@ -1,28 +1,8 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-07-05 21:45 UTC
+// Last updated: 2026-07-06 12:32 UTC
 
 const LISTINGS = [
-  {
-    "id": "7JRL12TA2PG234539-0be0d332-6ef8",
-    "year": 2023,
-    "trim": "Ultimate",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 34874,
-    "mileage": 22000,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://images.dealer.com/ddc/vehicles/2023/Volvo/S60/Sedan/trim_B5_Ultimate_Bright_Theme_776f57/color/Silver%20Dawn%20Metallic-735-148,149,156-640-en_US.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-25efd2c4ac181df8b344ce56f083297c.htm"
-  },
   {
     "id": "7JRL12TW9PG251205-539d9a57-658c",
     "year": 2023,
@@ -42,6 +22,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1933/584af07b58e19e48ebce5aaa9a6c37d1x.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
+  },
+  {
+    "id": "7JRL12TA2PG234539-0be0d332-6ef8",
+    "year": 2023,
+    "trim": "Ultimate",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 34874,
+    "mileage": 22000,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://images.dealer.com/ddc/vehicles/2023/Volvo/S60/Sedan/trim_B5_Ultimate_Bright_Theme_776f57/color/Silver%20Dawn%20Metallic-735-148,149,156-640-en_US.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-25efd2c4ac181df8b344ce56f083297c.htm"
   },
   {
     "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
@@ -164,26 +164,6 @@ const LISTINGS = [
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   },
   {
-    "id": "LYV402HK1JB162727-af331188-1cf5",
-    "year": 2018,
-    "trim": "Inscription",
-    "trimCategory": "Inscription",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 7900,
-    "mileage": 98264,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Toms River, NJ",
-    "lat": 40.013002,
-    "lng": -74.146731,
-    "dealer": "Silverton Motors",
-    "features": [],
-    "notes": "",
-    "image": "https://imagescf.dealercenter.net/1024/768/202604-d49a2e382d9c431da968867654aaf47d.jpg",
-    "listingUrl": "https://www.silvertonmotors.com/inventory/volvo/s60/jb162727/"
-  },
-  {
     "id": "7JR102FK2LG036780-ad702d1d-2edc",
     "year": 2020,
     "trim": "Momentum",
@@ -202,5 +182,25 @@ const LISTINGS = [
     "notes": "",
     "image": "https://automanager.blob.core.windows.net/wmphotos/003269/a4fd03676b375547ad914b212200b487/20cac2d097_1280.jpg",
     "listingUrl": "https://www.autoexoticainc.com/vehicle-details/2020-volvo-s60-t5-momentum-sedan-a4fd03676b375547ad914b212200b487"
+  },
+  {
+    "id": "YV1622FSXC2080810-0a6ac725-6e1c",
+    "year": 2012,
+    "trim": "T5",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 5995,
+    "mileage": 107445,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakehurst, NJ",
+    "lat": 40.014242,
+    "lng": -74.320094,
+    "dealer": "Jims Auto Sales",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/658417032b2bb5bb1ec36e902804358b/800x600/2012-volvo-s60-t5-4dr-sedan.jpg",
+    "listingUrl": "https://www.jimsautosalesnj.com/details/used-2012-volvo-s60/125983879"
   }
 ];
