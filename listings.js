@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-07-08 21:55 UTC
+// Last updated: 2026-07-09 11:46 UTC
 
 const LISTINGS = [
   {
@@ -44,26 +44,6 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
   },
   {
-    "id": "7JRL12TK5PG232017-5366fdfc-942a",
-    "year": 2023,
-    "trim": "Core",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 21995,
-    "mileage": 21812,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Wall Township, NJ",
-    "lat": 40.21895,
-    "lng": -74.129766,
-    "dealer": "Automotive Avenues",
-    "features": [],
-    "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/7081-11001792/7JRL12TK5PG232017/b8d2e02e4e3028d030ecae239994f5b1.webp",
-    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2023-volvo-s60-b5-awd-core-dark-theme-awd-sedan-7jrl12tk5pg232017/"
-  },
-  {
     "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
     "year": 2024,
     "trim": "Plus",
@@ -84,13 +64,33 @@ const LISTINGS = [
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
   },
   {
-    "id": "7JRL12TT3PG250430-969ef536-3998",
+    "id": "7JRL12TK5PG232017-5366fdfc-942a",
+    "year": 2023,
+    "trim": "Core",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 21995,
+    "mileage": 21812,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Wall Township, NJ",
+    "lat": 40.21895,
+    "lng": -74.129766,
+    "dealer": "Automotive Avenues",
+    "features": [],
+    "notes": "",
+    "image": "https://vehicle-images.carscommerce.inc/7081-11001792/7JRL12TK5PG232017/b8d2e02e4e3028d030ecae239994f5b1.webp",
+    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2023-volvo-s60-b5-awd-core-dark-theme-awd-sedan-7jrl12tk5pg232017/"
+  },
+  {
+    "id": "7JRL12TT3PG250430-859f4360-c700",
     "year": 2023,
     "trim": "Plus",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 33495,
+    "price": 32825,
     "mileage": 43117,
     "color": "N/A",
     "colorCategory": "",
@@ -164,6 +164,26 @@ const LISTINGS = [
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   },
   {
+    "id": "LYV402HK1JB162727-af331188-1cf5",
+    "year": 2018,
+    "trim": "Inscription",
+    "trimCategory": "Inscription",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 7900,
+    "mileage": 98264,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Toms River, NJ",
+    "lat": 40.013002,
+    "lng": -74.146731,
+    "dealer": "Silverton Motors",
+    "features": [],
+    "notes": "",
+    "image": "https://imagescf.dealercenter.net/1024/768/202604-d49a2e382d9c431da968867654aaf47d.jpg",
+    "listingUrl": "https://www.silvertonmotors.com/inventory/volvo/s60/jb162727/"
+  },
+  {
     "id": "7JR102FK2LG036780-ad702d1d-2edc",
     "year": 2020,
     "trim": "Momentum",
@@ -182,25 +202,5 @@ const LISTINGS = [
     "notes": "",
     "image": "https://automanager.blob.core.windows.net/wmphotos/003269/a4fd03676b375547ad914b212200b487/20cac2d097_1280.jpg",
     "listingUrl": "https://www.autoexoticainc.com/vehicle-details/2020-volvo-s60-t5-momentum-sedan-a4fd03676b375547ad914b212200b487"
-  },
-  {
-    "id": "YV1622FSXC2080810-0a6ac725-6e1c",
-    "year": 2012,
-    "trim": "T5",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 5995,
-    "mileage": 107445,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakehurst, NJ",
-    "lat": 40.014242,
-    "lng": -74.320094,
-    "dealer": "Jims Auto Sales",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/658417032b2bb5bb1ec36e902804358b/800x600/2012-volvo-s60-t5-4dr-sedan.jpg",
-    "listingUrl": "https://www.jimsautosalesnj.com/details/used-2012-volvo-s60/125983879"
   }
 ];
