@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-07-09 22:09 UTC
+// Last updated: 2026-07-10 11:39 UTC
 
 const LISTINGS = [
   {
@@ -164,26 +164,6 @@ const LISTINGS = [
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   },
   {
-    "id": "LYV402HK1JB162727-af331188-1cf5",
-    "year": 2018,
-    "trim": "Inscription",
-    "trimCategory": "Inscription",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 7900,
-    "mileage": 98264,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Toms River, NJ",
-    "lat": 40.013002,
-    "lng": -74.146731,
-    "dealer": "Silverton Motors",
-    "features": [],
-    "notes": "",
-    "image": "https://imagescf.dealercenter.net/1024/768/202604-d49a2e382d9c431da968867654aaf47d.jpg",
-    "listingUrl": "https://www.silvertonmotors.com/inventory/volvo/s60/jb162727/"
-  },
-  {
     "id": "7JR102FK2LG036780-ad702d1d-2edc",
     "year": 2020,
     "trim": "Momentum",
@@ -202,5 +182,25 @@ const LISTINGS = [
     "notes": "",
     "image": "https://automanager.blob.core.windows.net/wmphotos/003269/a4fd03676b375547ad914b212200b487/20cac2d097_1280.jpg",
     "listingUrl": "https://www.autoexoticainc.com/vehicle-details/2020-volvo-s60-t5-momentum-sedan-a4fd03676b375547ad914b212200b487"
+  },
+  {
+    "id": "7JR102FK7MG101978-efa768ed-abe4",
+    "year": 2021,
+    "trim": "Momentum",
+    "trimCategory": "Momentum",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 24995,
+    "mileage": 33819,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Toms River, NJ",
+    "lat": 39.953751,
+    "lng": -74.156384,
+    "dealer": "Auto Lenders  Toms River",
+    "features": [],
+    "notes": "",
+    "image": "https://content.homenetiol.com/2002155/2152865/11f8564f45204feda2713ae83a290909.jpg",
+    "listingUrl": "https://www.autolenders.com/used-car-inventory/Volvo-S60-MG101978"
   }
 ];
