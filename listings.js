@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-07-11 21:36 UTC
+// Last updated: 2026-07-12 10:16 UTC
 
 const LISTINGS = [
   {
@@ -64,7 +64,7 @@ const LISTINGS = [
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
   },
   {
-    "id": "YV1612TK4G2396541-0cfcde17-40d2",
+    "id": "YV1612TK4G2396541-c8971cdd-471f",
     "year": 2016,
     "trim": "T5 Premier",
     "trimCategory": "",
@@ -81,7 +81,7 @@ const LISTINGS = [
     "features": [],
     "notes": "",
     "image": "https://vehicle-images.carscommerce.inc/6533-11001792/YV1612TK4G2396541/b2384d51c94be353e922dc0ce22fe3ae.webp",
-    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2016-volvo-s60-4dr-sedan-t5-premier-awd-awd-sedan-yv1612tk4g2396541/"
+    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2016-volvo-s60-4dr-sedan-t5-premier-awd-w-climate-convenience-blis-pkgs-awd-sedan-yv1612tk4g2396541/"
   },
   {
     "id": "7JRL12TK5PG232017-5366fdfc-942a",
@@ -122,5 +122,85 @@ const LISTINGS = [
     "notes": "",
     "image": "https://content.homenetiol.com/2002155/2152865/e6edc7f897224042b74d2a87aece36f6.jpg",
     "listingUrl": "https://www.autolenders.com/used-car-inventory/Volvo-S60-PG250430"
+  },
+  {
+    "id": "YV149MTS3H2422415-5ba88305-6077",
+    "year": 2017,
+    "trim": "T6 R-Design Platinum",
+    "trimCategory": "R-Design",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 13498,
+    "mileage": 87060,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakewood, NJ",
+    "lat": 40.082121,
+    "lng": -74.168241,
+    "dealer": "Auto Headquarters",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/00e2b46bca88260b880676601fc52fd9fe/2017-volvo-s60-t6-252520r-design-252520platinum.jpg?width=640&height=480&format=&sig=e465bd19e2c52cb2",
+    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
+  },
+  {
+    "id": "YV1RS592382686824-0cfb0bf1-1b62",
+    "year": 2008,
+    "trim": "2.5T",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 4498,
+    "mileage": 117535,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakewood, NJ",
+    "lat": 40.082121,
+    "lng": -74.168241,
+    "dealer": "Auto Headquarters",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
+    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
+  },
+  {
+    "id": "LYV612TK8GB094237-d397f641-418f",
+    "year": 2016,
+    "trim": "T5 Premier",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 8495,
+    "mileage": 115646,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakewood, NJ",
+    "lat": 40.082401,
+    "lng": -74.169656,
+    "dealer": "Autoland Mall",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/00f9ee280457c710afc513761f5d3f2ee5/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=74a571a1c22a4605",
+    "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
+  },
+  {
+    "id": "7JR102FK2LG036780-ad702d1d-2edc",
+    "year": 2020,
+    "trim": "Momentum",
+    "trimCategory": "Momentum",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 20995,
+    "mileage": 53858,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Red Bank, NJ",
+    "lat": 40.338407,
+    "lng": -74.065124,
+    "dealer": "Auto Exotica",
+    "features": [],
+    "notes": "",
+    "image": "https://automanager.blob.core.windows.net/wmphotos/003269/a4fd03676b375547ad914b212200b487/20cac2d097_1280.jpg",
+    "listingUrl": "https://www.autoexoticainc.com/vehicle-details/2020-volvo-s60-t5-momentum-sedan-a4fd03676b375547ad914b212200b487"
   }
 ];
