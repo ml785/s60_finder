@@ -1,28 +1,8 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-07-15 21:44 UTC
+// Last updated: 2026-07-16 10:46 UTC
 
 const LISTINGS = [
-  {
-    "id": "7JRL12TA2PG234539-0be0d332-6ef8",
-    "year": 2023,
-    "trim": "Ultimate",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 34874,
-    "mileage": 22000,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1517/35b2e5952c82368c79a0443b440bdee9x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-25efd2c4ac181df8b344ce56f083297c.htm"
-  },
   {
     "id": "7JRL12TW9PG251205-539d9a57-658c",
     "year": 2023,
@@ -42,6 +22,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1933/584af07b58e19e48ebce5aaa9a6c37d1x.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
+  },
+  {
+    "id": "7JRL12TA2PG234539-0be0d332-6ef8",
+    "year": 2023,
+    "trim": "Ultimate",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 34874,
+    "mileage": 22000,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1517/35b2e5952c82368c79a0443b440bdee9x.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-25efd2c4ac181df8b344ce56f083297c.htm"
   },
   {
     "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
@@ -64,14 +64,14 @@ const LISTINGS = [
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
   },
   {
-    "id": "7JRL12TK5PG232017-5366fdfc-942a",
+    "id": "7JRL12TK5PG232017-ca3746a7-80a8",
     "year": 2023,
     "trim": "Core",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 21995,
-    "mileage": 21812,
+    "price": 21695,
+    "mileage": 24084,
     "color": "N/A",
     "colorCategory": "",
     "location": "Wall Township, NJ",
@@ -117,7 +117,7 @@ const LISTINGS = [
     "location": "Lakewood, NJ",
     "lat": 40.082984,
     "lng": -74.166842,
-    "dealer": "Auto Lenders  Lakewood",
+    "dealer": "Auto Lenders Lakewood, NJ",
     "features": [],
     "notes": "",
     "image": "https://content.homenetiol.com/2002155/2152865/e6edc7f897224042b74d2a87aece36f6.jpg",
@@ -184,7 +184,7 @@ const LISTINGS = [
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   },
   {
-    "id": "YV126MFK5G2393221-9d6c275f-55d0",
+    "id": "YV126MFK5G2393221-15c24f71-afab",
     "year": 2016,
     "trim": "T5 Premier",
     "trimCategory": "",
@@ -200,7 +200,7 @@ const LISTINGS = [
     "dealer": "Pine Belt Subaru",
     "features": [],
     "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/e274-110010971/YV126MFK5G2393221/77d1cce821fccf1507f630dae674f14c.webp",
-    "listingUrl": "https://www.pinebeltsubaru.com/inventory/used-2016-volvo-s60-t5-drive-e-premier-fwd-sedan-yv126mfk5g2393221/"
+    "image": "https://vehicle-images.carscommerce.inc/b8e4-110010971/YV126MFK5G2393221/940aae41c313da9bb02d0cbde5012e19.webp",
+    "listingUrl": "https://www.pinebeltsubaru.com/inventory/used-2016-volvo-s60-t5-drive-e-premier-fwd-4d-sedan-yv126mfk5g2393221/"
   }
 ];
