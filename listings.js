@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-07-16 21:51 UTC
+// Last updated: 2026-07-17 10:27 UTC
 
 const LISTINGS = [
   {
@@ -42,6 +42,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1517/35b2e5952c82368c79a0443b440bdee9x.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-25efd2c4ac181df8b344ce56f083297c.htm"
+  },
+  {
+    "id": "YV126MFL1J2450305-01d45af3-b15c",
+    "year": 2018,
+    "trim": "Dynamic",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 14995,
+    "mileage": 71960,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Neptune City, NJ",
+    "lat": 40.195916,
+    "lng": -74.026638,
+    "dealer": "Arch Global Automotive Llc",
+    "features": [],
+    "notes": "",
+    "image": "https://imagescf.dealercenter.net/1920/1080/202607-30278c3eb82f4cb69a893ed18d9402d7.jpg",
+    "listingUrl": "https://www.archauto.com/inventory/volvo/s60/NV450305/"
   },
   {
     "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
@@ -104,13 +124,13 @@ const LISTINGS = [
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2016-volvo-s60-4dr-sedan-t5-premier-awd-w-climate-convenience-blis-pkgs-awd-sedan-yv1612tk4g2396541/"
   },
   {
-    "id": "7JRL12TT3PG250430-859f4360-c700",
+    "id": "7JRL12TT3PG250430-c7717650-89f5",
     "year": 2023,
     "trim": "Plus",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 32825,
+    "price": 32497,
     "mileage": 43117,
     "color": "N/A",
     "colorCategory": "",
@@ -122,26 +142,6 @@ const LISTINGS = [
     "notes": "",
     "image": "https://content.homenetiol.com/2002155/2152865/e6edc7f897224042b74d2a87aece36f6.jpg",
     "listingUrl": "https://www.autolenders.com/used-car-inventory/Volvo-S60-PG250430"
-  },
-  {
-    "id": "YV1RS592382686824-0cfb0bf1-1b62",
-    "year": 2008,
-    "trim": "2.5T",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 4498,
-    "mileage": 117535,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakewood, NJ",
-    "lat": 40.082121,
-    "lng": -74.168241,
-    "dealer": "Auto Headquarters",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
-    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
   },
   {
     "id": "YV149MTS3H2422415-5ba88305-6077",
@@ -164,6 +164,26 @@ const LISTINGS = [
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/fdbec950-01b4-4064-a349-96dddf3bb629"
   },
   {
+    "id": "YV1RS592382686824-0cfb0bf1-1b62",
+    "year": 2008,
+    "trim": "2.5T",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 4498,
+    "mileage": 117535,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakewood, NJ",
+    "lat": 40.082121,
+    "lng": -74.168241,
+    "dealer": "Auto Headquarters",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
+    "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
+  },
+  {
     "id": "LYV612TK8GB094237-d397f641-418f",
     "year": 2016,
     "trim": "T5 Premier",
@@ -182,25 +202,5 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/00f9ee280457c710afc513761f5d3f2ee5/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=74a571a1c22a4605",
     "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
-  },
-  {
-    "id": "YV126MFK5G2393221-15c24f71-afab",
-    "year": 2016,
-    "trim": "T5 Premier",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 13536,
-    "mileage": 63411,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Brick Township, NJ",
-    "lat": 40.0857,
-    "lng": -74.175387,
-    "dealer": "Pine Belt Subaru",
-    "features": [],
-    "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/b8e4-110010971/YV126MFK5G2393221/940aae41c313da9bb02d0cbde5012e19.webp",
-    "listingUrl": "https://www.pinebeltsubaru.com/inventory/used-2016-volvo-s60-t5-drive-e-premier-fwd-4d-sedan-yv126mfk5g2393221/"
   }
 ];
