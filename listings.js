@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-07-20 21:53 UTC
+// Last updated: 2026-07-21 10:53 UTC
 
 const LISTINGS = [
   {
@@ -44,6 +44,26 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
   },
   {
+    "id": "7JR102FK6LG060080-b13e0fc8-6e90",
+    "year": 2020,
+    "trim": "Momentum",
+    "trimCategory": "Momentum",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 22914,
+    "mileage": 39939,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Neptune City, NJ",
+    "lat": 40.195052,
+    "lng": -74.026868,
+    "dealer": "Autoshow Llc",
+    "features": [],
+    "notes": "",
+    "image": "https://media-cdn-tango.jazelc.com/media/73172822?scale=1280/-1/70",
+    "listingUrl": "https://www.autoshowus.com/vehicle/7JR102FK6LG060080/Used-2020-Volvo-S60-Momentum-Somerset-NJ/"
+  },
+  {
     "id": "YV126MFL1J2450305-01d45af3-b15c",
     "year": 2018,
     "trim": "Dynamic",
@@ -62,6 +82,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://imagescf.dealercenter.net/1920/1080/202607-30278c3eb82f4cb69a893ed18d9402d7.jpg",
     "listingUrl": "https://www.archauto.com/inventory/volvo/s60/NV450305/"
+  },
+  {
+    "id": "YV1612TK4G2396541-c8971cdd-471f",
+    "year": 2016,
+    "trim": "T5 Premier",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 13995,
+    "mileage": 53076,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Wall Township, NJ",
+    "lat": 40.21895,
+    "lng": -74.129766,
+    "dealer": "Automotive Avenues",
+    "features": [],
+    "notes": "",
+    "image": "https://vehicle-images.carscommerce.inc/6533-11001792/YV1612TK4G2396541/b2384d51c94be353e922dc0ce22fe3ae.webp",
+    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2016-volvo-s60-4dr-sedan-t5-premier-awd-w-climate-convenience-blis-pkgs-awd-sedan-yv1612tk4g2396541/"
   },
   {
     "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
@@ -102,26 +142,6 @@ const LISTINGS = [
     "notes": "",
     "image": "https://vehicle-images.carscommerce.inc/7081-11001792/7JRL12TK5PG232017/b8d2e02e4e3028d030ecae239994f5b1.webp",
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2023-volvo-s60-b5-awd-core-dark-theme-awd-sedan-7jrl12tk5pg232017/"
-  },
-  {
-    "id": "YV1612TK4G2396541-c8971cdd-471f",
-    "year": 2016,
-    "trim": "T5 Premier",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 13995,
-    "mileage": 53076,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Wall Township, NJ",
-    "lat": 40.21895,
-    "lng": -74.129766,
-    "dealer": "Automotive Avenues",
-    "features": [],
-    "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/6533-11001792/YV1612TK4G2396541/b2384d51c94be353e922dc0ce22fe3ae.webp",
-    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2016-volvo-s60-4dr-sedan-t5-premier-awd-w-climate-convenience-blis-pkgs-awd-sedan-yv1612tk4g2396541/"
   },
   {
     "id": "7JRL12TT3PG250430-c7717650-89f5",
@@ -182,25 +202,5 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
-  },
-  {
-    "id": "LYV612TK8GB094237-d397f641-418f",
-    "year": 2016,
-    "trim": "T5 Premier",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 8495,
-    "mileage": 115646,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakewood, NJ",
-    "lat": 40.082401,
-    "lng": -74.169656,
-    "dealer": "Autoland Mall",
-    "features": [],
-    "notes": "",
-    "image": "https://cdn05.carsforsale.com/00f9ee280457c710afc513761f5d3f2ee5/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=74a571a1c22a4605",
-    "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   }
 ];
