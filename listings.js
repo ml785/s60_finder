@@ -1,17 +1,17 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-07-22 10:55 UTC
+// Last updated: 2026-07-22 21:53 UTC
 
 const LISTINGS = [
   {
-    "id": "7JRL12TA2PG234539-0be0d332-6ef8",
+    "id": "7JRL12TA2PG234539-e104cc22-36d4",
     "year": 2023,
     "trim": "Ultimate",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
     "price": 34874,
-    "mileage": 22000,
+    "mileage": 22015,
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
@@ -84,33 +84,13 @@ const LISTINGS = [
     "listingUrl": "https://www.archauto.com/inventory/volvo/s60/NV450305/"
   },
   {
-    "id": "YV1612TK4G2396541-c8971cdd-471f",
-    "year": 2016,
-    "trim": "T5 Premier",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 13995,
-    "mileage": 53076,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Wall Township, NJ",
-    "lat": 40.21895,
-    "lng": -74.129766,
-    "dealer": "Automotive Avenues",
-    "features": [],
-    "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/6533-11001792/YV1612TK4G2396541/b2384d51c94be353e922dc0ce22fe3ae.webp",
-    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2016-volvo-s60-4dr-sedan-t5-premier-awd-w-climate-convenience-blis-pkgs-awd-sedan-yv1612tk4g2396541/"
-  },
-  {
-    "id": "7JRL12TH7RG311101-fbdff9c0-94e2",
+    "id": "7JRL12TH7RG311101-a3c8fa75-6ad3",
     "year": 2024,
     "trim": "Plus",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 28495,
+    "price": 28395,
     "mileage": 15580,
     "color": "N/A",
     "colorCategory": "",
@@ -142,6 +122,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://vehicle-images.carscommerce.inc/7081-11001792/7JRL12TK5PG232017/b8d2e02e4e3028d030ecae239994f5b1.webp",
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2023-volvo-s60-b5-awd-core-dark-theme-awd-sedan-7jrl12tk5pg232017/"
+  },
+  {
+    "id": "YV1612TK4G2396541-c8971cdd-471f",
+    "year": 2016,
+    "trim": "T5 Premier",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 13995,
+    "mileage": 53076,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Wall Township, NJ",
+    "lat": 40.21895,
+    "lng": -74.129766,
+    "dealer": "Automotive Avenues",
+    "features": [],
+    "notes": "",
+    "image": "https://vehicle-images.carscommerce.inc/6533-11001792/YV1612TK4G2396541/b2384d51c94be353e922dc0ce22fe3ae.webp",
+    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2016-volvo-s60-4dr-sedan-t5-premier-awd-w-climate-convenience-blis-pkgs-awd-sedan-yv1612tk4g2396541/"
   },
   {
     "id": "7JRL12TT3PG250430-c7717650-89f5",
