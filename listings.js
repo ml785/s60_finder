@@ -1,16 +1,16 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-07-22 21:53 UTC
+// Last updated: 2026-07-23 10:55 UTC
 
 const LISTINGS = [
   {
-    "id": "7JRL12TA2PG234539-e104cc22-36d4",
+    "id": "7JRL12TA2PG234539-29ea9c65-3c86",
     "year": 2023,
     "trim": "Ultimate",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 34874,
+    "price": 34597,
     "mileage": 22015,
     "color": "N/A",
     "colorCategory": "",
@@ -24,13 +24,13 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-25efd2c4ac181df8b344ce56f083297c.htm"
   },
   {
-    "id": "7JRL12TW9PG251205-539d9a57-658c",
+    "id": "7JRL12TW9PG251205-564fd689-1391",
     "year": 2023,
     "trim": "Plus",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 35874,
+    "price": 34879,
     "mileage": 25407,
     "color": "N/A",
     "colorCategory": "",
@@ -102,26 +102,6 @@ const LISTINGS = [
     "notes": "",
     "image": "https://vehicle-images.carscommerce.inc/ebee-11001792/7JRL12TH7RG311101/e2082c304b8de8177a1cb2965ad85837.webp",
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
-  },
-  {
-    "id": "7JRL12TK5PG232017-ca3746a7-80a8",
-    "year": 2023,
-    "trim": "Core",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 21695,
-    "mileage": 24084,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Wall Township, NJ",
-    "lat": 40.21895,
-    "lng": -74.129766,
-    "dealer": "Automotive Avenues",
-    "features": [],
-    "notes": "",
-    "image": "https://vehicle-images.carscommerce.inc/7081-11001792/7JRL12TK5PG232017/b8d2e02e4e3028d030ecae239994f5b1.webp",
-    "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2023-volvo-s60-b5-awd-core-dark-theme-awd-sedan-7jrl12tk5pg232017/"
   },
   {
     "id": "YV1612TK4G2396541-c8971cdd-471f",
@@ -202,5 +182,25 @@ const LISTINGS = [
     "notes": "",
     "image": "https://cdn05.carsforsale.com/51e40685da6910a6c6469b1c0001efc7/2008-volvo-s60-2-5t.jpg?width=640&height=480&format=&sig=5a9ab6ab57ffdb88",
     "listingUrl": "https://www.autoheadquartersinc.com/Inventory/Details/9fdda7be-2a9a-41b2-9c0f-3c7c4b602731"
+  },
+  {
+    "id": "LYV612TK8GB094237-d397f641-418f",
+    "year": 2016,
+    "trim": "T5 Premier",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 8495,
+    "mileage": 115646,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakewood, NJ",
+    "lat": 40.082401,
+    "lng": -74.169656,
+    "dealer": "Autoland Mall",
+    "features": [],
+    "notes": "",
+    "image": "https://cdn05.carsforsale.com/00f9ee280457c710afc513761f5d3f2ee5/2016-volvo-s60-t5-252520inscription.jpg?width=640&height=480&format=&sig=74a571a1c22a4605",
+    "listingUrl": "https://www.autolandmall.com/Inventory/Details/e68a8b74-5970-44b5-8109-c1a358092f01"
   }
 ];
