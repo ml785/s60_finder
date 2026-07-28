@@ -1,48 +1,8 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-07-27 21:54 UTC
+// Last updated: 2026-07-28 11:06 UTC
 
 const LISTINGS = [
-  {
-    "id": "7JRL12FV7PG231747-180b740e-aecd",
-    "year": 2023,
-    "trim": "Core",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 32874,
-    "mileage": 21313,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://images.dealer.com/ddc/vehicles/2023/Volvo/S60/Sedan/trim_B5_Core_Dark_Theme_666a77/color/Crystal%20White%20Metallic-707-237,238,243-640-en_US.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-4920d529ac181a15172eb39532dab09e.htm"
-  },
-  {
-    "id": "7JRL12TW9PG251205-9c139ea9-fd50",
-    "year": 2023,
-    "trim": "Plus",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 34879,
-    "mileage": 25410,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1933/584af07b58e19e48ebce5aaa9a6c37d1x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
-  },
   {
     "id": "7JRL12FV4PG234637-4945dac8-5e16",
     "year": 2023,
@@ -62,6 +22,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://images.dealer.com/ddc/vehicles/2023/Volvo/S60/Sedan/trim_B5_Core_Dark_Theme_666a77/color/Silver%20Dawn%20Metallic-735-148,149,156-640-en_US.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-4920d6f2ac1843223622966afde2d6a1.htm"
+  },
+  {
+    "id": "7JRL12FV7PG231747-180b740e-aecd",
+    "year": 2023,
+    "trim": "Core",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 32874,
+    "mileage": 21313,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://images.dealer.com/ddc/vehicles/2023/Volvo/S60/Sedan/trim_B5_Core_Dark_Theme_666a77/color/Crystal%20White%20Metallic-707-237,238,243-640-en_US.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-4920d529ac181a15172eb39532dab09e.htm"
   },
   {
     "id": "7JRL12TA2PG234539-4f9c0831-189d",
@@ -104,6 +84,26 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-4920da0fac182381677b0ba90cbcdd69.htm"
   },
   {
+    "id": "7JRL12TW9PG251205-9c139ea9-fd50",
+    "year": 2023,
+    "trim": "Plus",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 34879,
+    "mileage": 25410,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1933/584af07b58e19e48ebce5aaa9a6c37d1x.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
+  },
+  {
     "id": "7JRH60FM4RG313103-6699b1d5-9ded",
     "year": 2024,
     "trim": "Ultimate",
@@ -124,13 +124,13 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Recharge-Plug-In-Hybrid-Manasquan-4920d29cac183ebb689d7c6d19908107.htm"
   },
   {
-    "id": "7JR102FK6LG060080-b13e0fc8-6e90",
+    "id": "7JR102FK6LG060080-41a714f8-50b7",
     "year": 2020,
     "trim": "Momentum",
     "trimCategory": "Momentum",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 22914,
+    "price": 22739,
     "mileage": 39939,
     "color": "N/A",
     "colorCategory": "",
