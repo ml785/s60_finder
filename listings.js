@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-08-19 21:13 UTC
+// Last updated: 2026-08-20 09:20 UTC
 
 const LISTINGS = [
   {
@@ -104,14 +104,14 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-ba6ffd27ac1836316e8e0c1663f1c4ef.htm"
   },
   {
-    "id": "7JRL12TK5RG294147-02a4b09b-b085",
+    "id": "7JRL12TK5RG294147-123219b1-b60c",
     "year": 2024,
     "trim": "Core",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
     "price": 34374,
-    "mileage": 18710,
+    "mileage": 18722,
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
