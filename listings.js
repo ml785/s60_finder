@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-09-01 22:51 UTC
+// Last updated: 2026-09-02 13:00 UTC
 
 const LISTINGS = [
   {
@@ -182,25 +182,5 @@ const LISTINGS = [
     "notes": "",
     "image": "https://vehicle-images.carscommerce.inc/ebee-11001792/7JRL12TH7RG311101/e2082c304b8de8177a1cb2965ad85837.webp",
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
-  },
-  {
-    "id": "7JRL12TT3PG250430-a606bae5-4761",
-    "year": 2023,
-    "trim": "Plus",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 31044,
-    "mileage": 43117,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Lakewood, NJ",
-    "lat": 40.082984,
-    "lng": -74.166842,
-    "dealer": "Auto Lenders Lakewood, NJ",
-    "features": [],
-    "notes": "",
-    "image": "https://content.homenetiol.com/2002155/2152865/e6edc7f897224042b74d2a87aece36f6.jpg",
-    "listingUrl": "https://www.autolenders.com/used-car-inventory/Volvo-S60-PG250430"
   }
 ];
