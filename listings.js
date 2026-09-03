@@ -1,8 +1,28 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-09-02 22:52 UTC
+// Last updated: 2026-09-03 13:02 UTC
 
 const LISTINGS = [
+  {
+    "id": "7JRL12TW9PG251205-ca03153f-eb9a",
+    "year": 2023,
+    "trim": "Plus",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 34879,
+    "mileage": 25410,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1933/584af07b58e19e48ebce5aaa9a6c37d1x.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
+  },
   {
     "id": "7JRL12FV4PG234637-be955c3a-ff85",
     "year": 2023,
@@ -62,26 +82,6 @@ const LISTINGS = [
     "notes": "",
     "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1484/ba6581177d56f0c87b2b33c8f1cefab6x.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2023-Volvo-S60-Manasquan-4920da0fac182381677b0ba90cbcdd69.htm"
-  },
-  {
-    "id": "7JRL12TW9PG251205-ca03153f-eb9a",
-    "year": 2023,
-    "trim": "Plus",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 34879,
-    "mileage": 25410,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1933/584af07b58e19e48ebce5aaa9a6c37d1x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
   },
   {
     "id": "7JRL12TL1RG290511-254d1feb-fe03",
@@ -182,5 +182,25 @@ const LISTINGS = [
     "notes": "",
     "image": "https://vehicle-images.carscommerce.inc/ebee-11001792/7JRL12TH7RG311101/e2082c304b8de8177a1cb2965ad85837.webp",
     "listingUrl": "https://www.automotiveavenuesnj.com/inventory/used-2024-volvo-s60-b5-awd-plus-black-edition-w-harmankardon-climate-package-awd-sedan-7jrl12th7rg311101/"
+  },
+  {
+    "id": "7JRL12TT3PG250430-b076bb28-d1f9",
+    "year": 2023,
+    "trim": "Plus",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 30578,
+    "mileage": 43117,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Lakewood, NJ",
+    "lat": 40.082984,
+    "lng": -74.166842,
+    "dealer": "Auto Lenders Lakewood, NJ",
+    "features": [],
+    "notes": "",
+    "image": "https://content.homenetiol.com/2002155/2152865/e6edc7f897224042b74d2a87aece36f6.jpg",
+    "listingUrl": "https://www.autolenders.com/used-car-inventory/Volvo-S60-PG250430"
   }
 ];
