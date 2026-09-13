@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-09-12 22:40 UTC
+// Last updated: 2026-09-13 13:29 UTC
 
 const LISTINGS = [
   {
@@ -22,26 +22,6 @@ const LISTINGS = [
     "notes": "",
     "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1933/584af07b58e19e48ebce5aaa9a6c37d1x.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
-  },
-  {
-    "id": "7JRL12FV7PG231747-16a74c6f-db77",
-    "year": 2023,
-    "trim": "Core",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 31610,
-    "mileage": 21317,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1903/b2f4f764383a9565c80f05383f86a027x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2023-Volvo-S60-Manasquan-4920d529ac181a15172eb39532dab09e.htm"
   },
   {
     "id": "7JRL12FHXRG282186-f5158d4f-4606",
@@ -144,13 +124,13 @@ const LISTINGS = [
     "listingUrl": "https://www.archauto.com/inventory/volvo/s60/NV450305/"
   },
   {
-    "id": "7JRA22TK0MG081944-633bab74-4602",
+    "id": "7JRA22TK0MG081944-82a48cf8-ec59",
     "year": 2021,
     "trim": "Momentum",
     "trimCategory": "Momentum",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 20495,
+    "price": 19995,
     "mileage": 74588,
     "color": "N/A",
     "colorCategory": "",
