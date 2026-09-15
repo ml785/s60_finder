@@ -1,28 +1,8 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-09-14 23:32 UTC
+// Last updated: 2026-09-15 13:54 UTC
 
 const LISTINGS = [
-  {
-    "id": "7JRL12FK4RG303917-9e1456ba-7702",
-    "year": 2024,
-    "trim": "Core",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 31474,
-    "mileage": 16393,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1274/9b2362bb9fba06dc1d49d95eee759145x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-7d44ba2cac1806568f439d17dcc943eb.htm"
-  },
   {
     "id": "7JRL12TW9PG251205-112411fe-23a4",
     "year": 2023,
@@ -44,7 +24,7 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
   },
   {
-    "id": "7JRL12FL6RG282805-12035217-7b90",
+    "id": "7JRL12FL6RG282805-cc9235f7-a047",
     "year": 2024,
     "trim": "Plus",
     "trimCategory": "",
@@ -61,7 +41,47 @@ const LISTINGS = [
     "features": [],
     "notes": "",
     "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/0550/f4a37e6929ec300a1f1996de6235580bx.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-5a1a33f7ac183e41ab1f3dd1ab169d43.htm"
+    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-5a1a33f7ac183e41ab1f3dd1ab169d43.htm"
+  },
+  {
+    "id": "7JRL12TL1RG290511-254d1feb-fe03",
+    "year": 2024,
+    "trim": "Plus",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 35374,
+    "mileage": 32672,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/0157/9bf854327feca79dcd52d00ced34899fx.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-216b3d94ac1827bd9540ac67fb0ba6a9.htm"
+  },
+  {
+    "id": "7JRL12FK4RG303917-9e1456ba-7702",
+    "year": 2024,
+    "trim": "Core",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 31474,
+    "mileage": 16393,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1274/9b2362bb9fba06dc1d49d95eee759145x.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-7d44ba2cac1806568f439d17dcc943eb.htm"
   },
   {
     "id": "7JRL12FHXRG282186-f5158d4f-4606",
@@ -102,26 +122,6 @@ const LISTINGS = [
     "notes": "",
     "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1347/2b75de7f43ed56cd8ba8006e72227a42x.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-360821edac18393ecccba8dd07ab8189.htm"
-  },
-  {
-    "id": "7JRL12TL1RG290511-254d1feb-fe03",
-    "year": 2024,
-    "trim": "Plus",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 35374,
-    "mileage": 32672,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/0157/9bf854327feca79dcd52d00ced34899fx.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-216b3d94ac1827bd9540ac67fb0ba6a9.htm"
   },
   {
     "id": "YV126MFL1J2450305-01d45af3-b15c",
