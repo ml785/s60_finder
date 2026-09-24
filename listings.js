@@ -1,16 +1,16 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-09-23 23:15 UTC
+// Last updated: 2026-09-24 13:50 UTC
 
 const LISTINGS = [
   {
-    "id": "7JRL12TW9PG251205-112411fe-23a4",
+    "id": "7JRL12TW9PG251205-47659c2d-c423",
     "year": 2023,
     "trim": "Plus",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 34676,
+    "price": 33897,
     "mileage": 25410,
     "color": "N/A",
     "colorCategory": "",
