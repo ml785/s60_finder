@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-09-25 23:39 UTC
+// Last updated: 2026-09-26 13:25 UTC
 
 const LISTINGS = [
   {
@@ -42,26 +42,6 @@ const LISTINGS = [
     "notes": "",
     "image": "https://pictures.web.dealer.com/v/volvocarsmanasquanvcna/0708/eaac255160227491b3b7a9048ab9eaecx.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-a14e7b49ac184088ef41bc976ddff380.htm"
-  },
-  {
-    "id": "7JRL12GJ9SG369293-c8411e87-3205",
-    "year": 2025,
-    "trim": "Core",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 39874,
-    "mileage": 11079,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://pictures.web.dealer.com/v/volvocarsmanasquanvcna/1199/934e082767e92b448205e0519091f187x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2025-Volvo-S60-Manasquan-92b718c6ac182637dfe2060ec0f82750.htm"
   },
   {
     "id": "7JRL12FL6RG282805-cc9235f7-a047",
@@ -142,5 +122,45 @@ const LISTINGS = [
     "notes": "",
     "image": "https://pictures.web.dealer.com/v/volvocarsmanasquanvcna/0157/9bf854327feca79dcd52d00ced34899fx.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-216b3d94ac1827bd9540ac67fb0ba6a9.htm"
+  },
+  {
+    "id": "7JRL12GJ9SG369293-c8411e87-3205",
+    "year": 2025,
+    "trim": "Core",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 39874,
+    "mileage": 11079,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://pictures.web.dealer.com/v/volvocarsmanasquanvcna/1199/934e082767e92b448205e0519091f187x.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2025-Volvo-S60-Manasquan-92b718c6ac182637dfe2060ec0f82750.htm"
+  },
+  {
+    "id": "YV126MFL1J2450305-01d45af3-b15c",
+    "year": 2018,
+    "trim": "Dynamic",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 14995,
+    "mileage": 71960,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Neptune City, NJ",
+    "lat": 40.195916,
+    "lng": -74.026638,
+    "dealer": "Arch Global Automotive Llc",
+    "features": [],
+    "notes": "",
+    "image": "https://imagescf.dealercenter.net/1920/1080/202607-30278c3eb82f4cb69a893ed18d9402d7.jpg",
+    "listingUrl": "https://www.archauto.com/inventory/volvo/s60/NV450305/"
   }
 ];
