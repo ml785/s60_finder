@@ -1,28 +1,8 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-09-26 23:12 UTC
+// Last updated: 2026-09-27 14:21 UTC
 
 const LISTINGS = [
-  {
-    "id": "7JRL12TW9PG251205-47659c2d-c423",
-    "year": 2023,
-    "trim": "Plus",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 33897,
-    "mileage": 25410,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://pictures.web.dealer.com/v/volvocarsmanasquanvcna/1933/584af07b58e19e48ebce5aaa9a6c37d1x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
-  },
   {
     "id": "7JRL12FK7RG305306-bcaef46d-d705",
     "year": 2024,
@@ -44,14 +24,14 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-a14e7b49ac184088ef41bc976ddff380.htm"
   },
   {
-    "id": "7JRL12FL6RG282805-cc9235f7-a047",
-    "year": 2024,
+    "id": "7JRL12TW9PG251205-47659c2d-c423",
+    "year": 2023,
     "trim": "Plus",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 32874,
-    "mileage": 28618,
+    "price": 33897,
+    "mileage": 25410,
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
@@ -60,8 +40,8 @@ const LISTINGS = [
     "dealer": "Volvo Cars Manasquan",
     "features": [],
     "notes": "",
-    "image": "https://pictures.web.dealer.com/v/volvocarsmanasquanvcna/0550/f4a37e6929ec300a1f1996de6235580bx.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-5a1a33f7ac183e41ab1f3dd1ab169d43.htm"
+    "image": "https://pictures.web.dealer.com/v/volvocarsmanasquanvcna/1933/584af07b58e19e48ebce5aaa9a6c37d1x.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
   },
   {
     "id": "7JRL12FHXRG282186-ff541393-dff3",
@@ -82,6 +62,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://pictures.web.dealer.com/v/volvocarsmanasquanvcna/1062/cd82c829d0914cf24feb5dd41f593ec3x.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-5932483eac1859bf3673a7c7fdbe221a.htm"
+  },
+  {
+    "id": "7JRL12FL6RG282805-cc9235f7-a047",
+    "year": 2024,
+    "trim": "Plus",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 32874,
+    "mileage": 28618,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://pictures.web.dealer.com/v/volvocarsmanasquanvcna/0550/f4a37e6929ec300a1f1996de6235580bx.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-5a1a33f7ac183e41ab1f3dd1ab169d43.htm"
   },
   {
     "id": "7JRL12TH1RG320196-72e2ba06-4607",
@@ -142,25 +142,5 @@ const LISTINGS = [
     "notes": "",
     "image": "https://pictures.web.dealer.com/v/volvocarsmanasquanvcna/1199/934e082767e92b448205e0519091f187x.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2025-Volvo-S60-Manasquan-92b718c6ac182637dfe2060ec0f82750.htm"
-  },
-  {
-    "id": "YV126MFL1J2450305-01d45af3-b15c",
-    "year": 2018,
-    "trim": "Dynamic",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 14995,
-    "mileage": 71960,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Neptune City, NJ",
-    "lat": 40.195916,
-    "lng": -74.026638,
-    "dealer": "Arch Global Automotive Llc",
-    "features": [],
-    "notes": "",
-    "image": "https://imagescf.dealercenter.net/1920/1080/202607-30278c3eb82f4cb69a893ed18d9402d7.jpg",
-    "listingUrl": "https://www.archauto.com/inventory/volvo/s60/NV450305/"
   }
 ];
