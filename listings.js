@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-10-03 13:58 UTC
+// Last updated: 2026-10-03 23:24 UTC
 
 const LISTINGS = [
   {
