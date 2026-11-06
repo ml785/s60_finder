@@ -1,6 +1,6 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-11-06 01:11 UTC
+// Last updated: 2026-11-06 16:21 UTC
 
 const LISTINGS = [
   {
@@ -20,38 +20,18 @@ const LISTINGS = [
     "dealer": "T&t Coast Buick Gmc",
     "features": [],
     "notes": "",
-    "image": "https://www.ttcoastauto.com/wp-content/plugins/inventory/images/notfound.jpg",
+    "image": "https://vehicle-images.carscommerce.inc/5534-110007727/7JRL12FK5RG303070/1c98a0bcc454c4f1edb1778055f6559a.jpg",
     "listingUrl": "https://www.ttcoastauto.com/inventory/used-2024-volvo-s60-core-dark-theme-front-wheel-drive-sedan-7jrl12fk5rg303070/"
   },
   {
-    "id": "7JRA22TL0KG012080-7e4a9f9d-0ae6",
-    "year": 2019,
-    "trim": "Inscription",
-    "trimCategory": "Inscription",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 24874,
-    "mileage": 52227,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://images.dealer.com/ddc/vehicles/2019/Volvo/S60/Sedan/trim_T6_Inscription_c6ddf8/color/Crystal%20White%20Pearl%20Metallic-707-222,220,216-640-en_US.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2019-Volvo-S60-Manasquan-9f2134e5ac185057c76f07d44ae279c5.htm"
-  },
-  {
-    "id": "7JRL12TLXRG294427-d4dd99a5-7e7b",
+    "id": "7JRL12TL7RG305562-25aa9cb1-ae1c",
     "year": 2024,
     "trim": "Plus",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 38673,
-    "mileage": 6335,
+    "price": 36374,
+    "mileage": 11868,
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
@@ -60,18 +40,18 @@ const LISTINGS = [
     "dealer": "Volvo Cars Manasquan",
     "features": [],
     "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/0457/3a0ad8b27c0755f33e640d126e4f8551x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-377a7862ac18087bd469199207d6617c.htm"
+    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1520/2c8896063ebbcf40acc1b7e220e60c03x.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-5fd02e9eac183997d148802886c0ed57.htm"
   },
   {
-    "id": "7JRL12TW9PG251205-968432b0-c0f4",
+    "id": "7JRL12FV9PG239946-711c6270-c915",
     "year": 2023,
-    "trim": "Plus",
+    "trim": "Core",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 32597,
-    "mileage": 25410,
+    "price": 31874,
+    "mileage": 13457,
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
@@ -80,8 +60,8 @@ const LISTINGS = [
     "dealer": "Volvo Cars Manasquan",
     "features": [],
     "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1933/584af07b58e19e48ebce5aaa9a6c37d1x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
+    "image": "https://images.dealer.com/ddc/vehicles/2023/Volvo/S60/Sedan/trim_B5_Core_Dark_Theme_666a77/color/Bright%20Dusk%20Metallic-736-167,160,159-640-en_US.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2023-Volvo-S60-Manasquan-7f989f30ac180c8aac7951cc26daa2ed.htm"
   },
   {
     "id": "7JRL12TL6RG308274-4c986c35-a681",
@@ -102,6 +82,26 @@ const LISTINGS = [
     "notes": "",
     "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1071/27d71ff44b71915bf5491529e7574b87x.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-e96445c2ac18317c333ce9bd21c6c903.htm"
+  },
+  {
+    "id": "7JRL12TW9PG251205-968432b0-c0f4",
+    "year": 2023,
+    "trim": "Plus",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 32597,
+    "mileage": 25410,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1933/584af07b58e19e48ebce5aaa9a6c37d1x.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2023-Volvo-S60-Manasquan-aa59414eac181a1cf57150ad32115a9a.htm"
   },
   {
     "id": "7JRL12FK7RG305306-ba76279e-7d82",
@@ -144,14 +144,14 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-5a1a33f7ac183e41ab1f3dd1ab169d43.htm"
   },
   {
-    "id": "7JRL12TL7RG305562-f55dc17d-85e7",
+    "id": "7JRL12FK2RG311353-12cf0d7f-c051",
     "year": 2024,
-    "trim": "Plus",
+    "trim": "Core",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 36374,
-    "mileage": 11862,
+    "price": 31874,
+    "mileage": 11842,
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
@@ -160,7 +160,27 @@ const LISTINGS = [
     "dealer": "Volvo Cars Manasquan",
     "features": [],
     "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1520/2c8896063ebbcf40acc1b7e220e60c03x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-5fd02e9eac183997d148802886c0ed57.htm"
+    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1251/d1f24873db152df249ea72fe39693657x.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-46190913ac184ee43516cb47556c4ab6.htm"
+  },
+  {
+    "id": "7JRL12TL1RG290511-1fecc04a-4d3c",
+    "year": 2024,
+    "trim": "Plus",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 32720,
+    "mileage": 32672,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/0157/9bf854327feca79dcd52d00ced34899fx.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-216b3d94ac1827bd9540ac67fb0ba6a9.htm"
   }
 ];
