@@ -1,17 +1,17 @@
 // listings.js — AUTO-GENERATED. Do not edit manually.
 // Source: MarketCheck API — ZIP 07762, 50 mi radius.
-// Last updated: 2026-11-25 03:49 UTC
+// Last updated: 2026-11-25 18:51 UTC
 
 const LISTINGS = [
   {
-    "id": "7JRL12TL6RG308274-345282e0-21d8",
+    "id": "7JRL12FL6RG282805-f6d60960-442b",
     "year": 2024,
     "trim": "Plus",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 34015,
-    "mileage": 23060,
+    "price": 31112,
+    "mileage": 28618,
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
@@ -20,38 +20,18 @@ const LISTINGS = [
     "dealer": "Volvo Cars Manasquan",
     "features": [],
     "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1071/27d71ff44b71915bf5491529e7574b87x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-e96445c2ac18317c333ce9bd21c6c903.htm"
+    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/0499/35fb38b6a472ec25a440d9f5a212b519x.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-5a1a33f7ac183e41ab1f3dd1ab169d43.htm"
   },
   {
-    "id": "7JRL12FK3RG304069-d85d815d-e647",
-    "year": 2024,
-    "trim": "Core",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 29874,
-    "mileage": 28898,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://images.dealer.com/ddc/vehicles/2024/Volvo/S60/Sedan/trim_B5_Core_Dark_Theme_87fd58/color/Denim%20Blue%20Metallic-723-62,78,95-640-en_US.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-fb6aaac4ac182c680a5cd7f3983b4e1d.htm"
-  },
-  {
-    "id": "7JRL12GC2SG364373-c28dcd25-aafc",
+    "id": "7JRL12GC7SG369312-93cdceac-32cc",
     "year": 2025,
     "trim": "Plus",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 41743,
-    "mileage": 6864,
+    "price": 41264,
+    "mileage": 6465,
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
@@ -60,8 +40,8 @@ const LISTINGS = [
     "dealer": "Volvo Cars Manasquan",
     "features": [],
     "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/0838/3ce310d9fa9f43bd747fb78e35e2cf9fx.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2025-Volvo-S60-Manasquan-558995afac1823fb325e6ec7529be248.htm"
+    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/0293/108331eac615af2d4b61839674944650x.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2025-Volvo-S60-Manasquan-e964479eac1816bb20185fbccc129d5e.htm"
   },
   {
     "id": "7JRH60FK7RG311165-1cec59f3-44f2",
@@ -124,14 +104,14 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-f11f647bac1849bac3c47565f91f7d11.htm"
   },
   {
-    "id": "7JRL12FL6RG282805-f6d60960-442b",
+    "id": "7JRL12TL6RG308274-345282e0-21d8",
     "year": 2024,
     "trim": "Plus",
     "trimCategory": "",
     "engine": "",
     "drivetrain": "FWD",
-    "price": 31112,
-    "mileage": 28618,
+    "price": 34015,
+    "mileage": 23060,
     "color": "N/A",
     "colorCategory": "",
     "location": "Manasquan, NJ",
@@ -140,8 +120,8 @@ const LISTINGS = [
     "dealer": "Volvo Cars Manasquan",
     "features": [],
     "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/0499/35fb38b6a472ec25a440d9f5a212b519x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-5a1a33f7ac183e41ab1f3dd1ab169d43.htm"
+    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1071/27d71ff44b71915bf5491529e7574b87x.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-e96445c2ac18317c333ce9bd21c6c903.htm"
   },
   {
     "id": "7JRL12TM4RG282797-42c4e006-894d",
@@ -164,6 +144,26 @@ const LISTINGS = [
     "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-8e2bf9d9ac181fee0551364601923c06.htm"
   },
   {
+    "id": "7JRL12FK3RG304069-d85d815d-e647",
+    "year": 2024,
+    "trim": "Core",
+    "trimCategory": "",
+    "engine": "",
+    "drivetrain": "FWD",
+    "price": 29874,
+    "mileage": 28898,
+    "color": "N/A",
+    "colorCategory": "",
+    "location": "Manasquan, NJ",
+    "lat": 40.125767,
+    "lng": -74.068956,
+    "dealer": "Volvo Cars Manasquan",
+    "features": [],
+    "notes": "",
+    "image": "https://images.dealer.com/ddc/vehicles/2024/Volvo/S60/Sedan/trim_B5_Core_Dark_Theme_87fd58/color/Denim%20Blue%20Metallic-723-62,78,95-640-en_US.jpg",
+    "listingUrl": "https://www.volvocarsmanasquan.com/used/Volvo/2024-Volvo-S60-Manasquan-fb6aaac4ac182c680a5cd7f3983b4e1d.htm"
+  },
+  {
     "id": "7JRL12FK0RG282970-c99ccfb8-a44f",
     "year": 2024,
     "trim": "Core",
@@ -182,25 +182,5 @@ const LISTINGS = [
     "notes": "",
     "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1425/3a020df14f3a9388e907c8c6e1b4e8d7x.jpg",
     "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-461910eaac183e6b779161e59f839649.htm"
-  },
-  {
-    "id": "7JRL12FK3RG287290-a62316f4-c996",
-    "year": 2024,
-    "trim": "Core",
-    "trimCategory": "",
-    "engine": "",
-    "drivetrain": "FWD",
-    "price": 29051,
-    "mileage": 28225,
-    "color": "N/A",
-    "colorCategory": "",
-    "location": "Manasquan, NJ",
-    "lat": 40.125767,
-    "lng": -74.068956,
-    "dealer": "Volvo Cars Manasquan",
-    "features": [],
-    "notes": "",
-    "image": "https://pictures.dealer.com/v/volvocarsmanasquanvcna/1153/3499d0b7d121534447202809a0974234x.jpg",
-    "listingUrl": "https://www.volvocarsmanasquan.com/certified/Volvo/2024-Volvo-S60-Manasquan-4619140aac181d126e686eeb5657a2d9.htm"
   }
 ];
